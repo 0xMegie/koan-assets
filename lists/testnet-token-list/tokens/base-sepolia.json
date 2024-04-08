@@ -1,0 +1,47 @@
+[
+  {
+    "chainId": 84532,
+    "address": "0xCC6944954936c6574E53a8742cc77F4bf9e1392E",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+  },
+  {
+    "chainId": 84532,
+    "address": "0xf2271f41132a45Bfe76D5Bf1746b19dcb6434ae0",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+  },
+  {
+    "chainId": 84532,
+    "address": "0x2F472256e0d4515c7Fa14e0F5329fc283917e3F2",
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+  },
+  {
+    "chainId": 84532,
+    "address": "0xEaa86c66a0d8f68Af428bEdB241F706c2d8d5E3A",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 18
+  },
+  {
+    "chainId": 84532,
+    "address": "0xdabC3D6a646EdD128bF153294541D025d9708675",
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "decimals": 18
+  },
+  {
+    "chainId": 84532,
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18
+  }
+]
