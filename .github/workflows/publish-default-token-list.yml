@@ -2,7 +2,7 @@ name: "Publishing Testnet Token List to NPM"
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - "lists/testnet-token-list/tokens/**"
   workflow_call:
