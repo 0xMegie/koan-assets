@@ -26,6 +26,9 @@ importers:
 
   apis/lists:
     dependencies:
+      '@koanprotocol/test-token-list':
+        specifier: workspace:^
+        version: link:../../lists/testnet-token-list
       '@vercel/node':
         specifier: 3.0.9
         version: 3.0.9

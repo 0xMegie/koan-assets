@@ -1,5 +1,4 @@
 packages:
-  - "apis/*"
   - "lists/*"
   - "logos/**/*"
   - "packages/*"
