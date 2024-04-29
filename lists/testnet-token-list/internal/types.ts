@@ -13,7 +13,7 @@ const TokenListItem = z.object({
   address: z.string(),
   chainId: z.number(),
   decimals: z.number(),
-  logoURI: z.optional(z.string()),
+  logoURI: z.string(),
   name: z.string(),
   symbol: z.string(),
 });

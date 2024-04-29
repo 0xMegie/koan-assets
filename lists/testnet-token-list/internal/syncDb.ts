@@ -99,6 +99,7 @@ async function syncListItem(client: PrismaClient, listItem: TokenListItem) {
         chainId: listItem.chainId,
         address: listItem.address,
         name: listItem.name,
+        logoUrl: listItem.logoURI,
         symbol: listItem.symbol,
         decimals: listItem.decimals,
         status: TokenStatus.APPROVED,

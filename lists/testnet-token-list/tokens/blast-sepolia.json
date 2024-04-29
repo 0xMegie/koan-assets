@@ -5,7 +5,7 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/logos/token-logos/token/dai.jpg"
   },
   {
     "chainId": 168587773,
@@ -13,7 +13,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/logos/token-logos/token/usdt.jpg"
   },
   {
     "chainId": 168587773,
@@ -21,7 +21,7 @@
     "name": "Basic Attention Token",
     "symbol": "BAT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/logos/token-logos/token/bat.jpg"
   },
   {
     "chainId": 168587773,
@@ -29,7 +29,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/logos/token-logos/token/wbtc.jpg"
   },
   {
     "chainId": 168587773,
@@ -37,7 +37,7 @@
     "name": "ChainLink Token",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/logos/token-logos/token/link.jpg"
   },
   {
     "chainId": 168587773,
@@ -45,6 +45,6 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/logos/token-logos/token/weth.jpg"
   }
 ]

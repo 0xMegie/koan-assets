@@ -10,8 +10,6 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-
-
 enum TokenStatus {
   APPROVED
   UNKNOWN
@@ -25,6 +23,7 @@ model Token {
   name     String
   symbol   String
   decimals Int
+  logoUrl  String
   status   TokenStatus @default(UNKNOWN)
 
   isFeeOnTransfer Boolean @default(false)
