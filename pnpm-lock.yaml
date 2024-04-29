@@ -47,6 +47,10 @@ importers:
         version: 32.5.3
 
   lists/testnet-token-list:
+    dependencies:
+      '@prisma/client':
+        specifier: ^5.13.0
+        version: 5.13.0(prisma@4.16.2)
     devDependencies:
       '@ethersproject/address':
         specifier: ^5.0.2
@@ -91,7 +95,7 @@ importers:
         specifier: ^8.0.1
         version: 8.4.0
       prisma:
-        specifier: ^4.15.0
+        specifier: ^4.16.2
         version: 4.16.2
       rimraf:
         specifier: ^3.0.2
@@ -106,7 +110,7 @@ importers:
         specifier: ^0.17.0
         version: 0.17.5
       zod:
-        specifier: ^3.21.4
+        specifier: ^3.22.4
         version: 3.22.4
 
   packages/builder: {}
@@ -943,10 +947,22 @@ packages:
       tslib: 2.6.2
     dev: true
 
+  /@prisma/client@5.13.0(prisma@4.16.2):
+    resolution: {integrity: sha512-uYdfpPncbZ/syJyiYBwGZS8Gt1PTNoErNYMuqHDa2r30rNSFtgTA/LXsSk55R7pdRTMi5pHkeP9B14K6nHmwkg==}
+    engines: {node: '>=16.13'}
+    requiresBuild: true
+    peerDependencies:
+      prisma: '*'
+    peerDependenciesMeta:
+      prisma:
+        optional: true
+    dependencies:
+      prisma: 4.16.2
+    dev: false
+
   /@prisma/engines@4.16.2:
     resolution: {integrity: sha512-vx1nxVvN4QeT/cepQce68deh/Turxy5Mr+4L4zClFuK1GlxN3+ivxfuv+ej/gvidWn1cE1uAhW7ALLNlYbRUAw==}
     requiresBuild: true
-    dev: true
 
   /@rollup/pluginutils@4.2.1:
     resolution: {integrity: sha512-iKnFXr7NkdZAIHiIWE+BX5ULi/ucVFYWD6TbAV+rZctiRTY2PL6tsIKhoIOaoskiWAkgu+VsbXgUVDNLHf+InQ==}
@@ -4973,7 +4989,6 @@ packages:
     requiresBuild: true
     dependencies:
       '@prisma/engines': 4.16.2
-    dev: true
 
   /promisepipe@3.0.0:
     resolution: {integrity: sha512-V6TbZDJ/ZswevgkDNpGt/YqNCiZP9ASfgU+p83uJE6NrGtvSGoOcHLiDCqkMs2+yg7F5qHdLV8d0aS8O26G/KA==}

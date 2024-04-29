@@ -28,20 +28,23 @@
     "address": "0xEaa86c66a0d8f68Af428bEdB241F706c2d8d5E3A",
     "name": "Wrapped BTC",
     "symbol": "WBTC",
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
   },
   {
     "chainId": 84532,
     "address": "0xdabC3D6a646EdD128bF153294541D025d9708675",
     "name": "ChainLink Token",
     "symbol": "LINK",
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
   },
   {
     "chainId": 84532,
     "address": "0x4200000000000000000000000000000000000006",
     "name": "Wrapped Ether",
     "symbol": "WETH",
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
   }
 ]
