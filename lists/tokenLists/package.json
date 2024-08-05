@@ -10,7 +10,8 @@
     "volume": "ts-node ./internal/tokenVolumes.ts",
     "ci:version": "pnpm version minor",
     "ci:publish": "pnpm publish --access public --tag latest",
-    "syncDb": "ts-node ./internal/syncDb.ts"
+    "syncDb": "ts-node ./internal/syncDb.ts",
+    "updateLogoUri": "ts-node ./internal/ops/updateLogoUrl.ts"
   },
   "files": [
     "build/koantestnet.tokenlist.json"
