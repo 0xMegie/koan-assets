@@ -26,18 +26,21 @@ importers:
 
   apis/tokenapi:
     dependencies:
-      '@koan/tokenlistdb':
-        specifier: workspace:*
-        version: link:../../packages/db
       '@koanprotocol/testnet-token-list':
         specifier: ^1.1.1
-        version: link:../../lists/testnet-token-list
+        version: 1.1.1
       '@neondatabase/serverless':
         specifier: ^0.9.3
         version: 0.9.4
       '@prisma/adapter-neon':
         specifier: ^5.13.0
         version: 5.17.0(@neondatabase/serverless@0.9.4)
+      '@prisma/client':
+        specifier: ^5.13.0
+        version: 5.17.0(prisma@5.17.0)
+      '@prisma/extension-accelerate':
+        specifier: ^1.0.0
+        version: 1.1.0(@prisma/client@5.17.0)
       '@types/node':
         specifier: ^20.12.11
         version: 20.14.14
@@ -53,6 +56,9 @@ importers:
       dotenv:
         specifier: ^16.4.5
         version: 16.4.5
+      prisma:
+        specifier: ^5.13.0
+        version: 5.17.0
       viem:
         specifier: ^2.10.3
         version: 2.18.8(bufferutil@4.0.8)(typescript@5.2.2)(zod@3.23.8)
@@ -79,81 +85,11 @@ importers:
         specifier: 34.1.10
         version: 34.1.10
 
-  lists/mainnet-token-list:
+  lists/tokenLists:
     dependencies:
       '@prisma/client':
         specifier: ^5.13.0
-        version: 5.13.0(prisma@4.16.2)
-    devDependencies:
-      '@ethersproject/address':
-        specifier: ^5.0.2
-        version: 5.7.0
-      '@ethersproject/solidity':
-        specifier: ^5.3.0
-        version: 5.7.0
-      '@koan/tokenlistdb':
-        specifier: workspace:*
-        version: link:../../packages/db
-      '@octokit/rest':
-        specifier: ^18.6.2
-        version: 18.12.0
-      '@repo/eslint-config':
-        specifier: workspace:*
-        version: link:../../packages/eslint-config
-      '@repo/typescript-config':
-        specifier: workspace:*
-        version: link:../../packages/typescript-config
-      '@types/node':
-        specifier: ^17.0.21
-        version: 17.0.45
-      '@uniswap/token-lists':
-        specifier: 1.0.0-beta.30
-        version: 1.0.0-beta.30
-      ajv:
-        specifier: ^6.12.3
-        version: 6.12.6
-      builder:
-        specifier: workspace:*
-        version: link:../../packages/builder
-      chai:
-        specifier: ^4.2.0
-        version: 4.4.1
-      graphql:
-        specifier: ^16.3.0
-        version: 16.8.1
-      graphql-request:
-        specifier: ^4.1.0
-        version: 4.3.0(graphql@16.8.1)
-      lodash:
-        specifier: ^4.17.21
-        version: 4.17.21
-      mocha:
-        specifier: ^8.0.1
-        version: 8.4.0
-      prisma:
-        specifier: ^4.16.2
-        version: 4.16.2
-      rimraf:
-        specifier: ^3.0.2
-        version: 3.0.2
-      ts-node:
-        specifier: ^10.7.0
-        version: 10.9.1(@types/node@17.0.45)(typescript@4.9.5)
-      typescript:
-        specifier: ^4.6.2
-        version: 4.9.5
-      xlsx:
-        specifier: ^0.17.0
-        version: 0.17.5
-      zod:
-        specifier: ^3.22.4
-        version: 3.22.4
-
-  lists/testnet-token-list:
-    dependencies:
-      '@prisma/client':
-        specifier: ^5.13.0
-        version: 5.13.0(prisma@4.16.2)
+        version: 5.17.0(prisma@4.16.2)
     devDependencies:
       '@ethersproject/address':
         specifier: ^5.0.2
@@ -214,49 +150,9 @@ importers:
         version: 0.17.5
       zod:
         specifier: ^3.22.4
-        version: 3.22.4
+        version: 3.23.8
 
   packages/builder: {}
-
-  packages/db:
-    dependencies:
-      '@neondatabase/serverless':
-        specifier: ^0.9.3
-        version: 0.9.4
-      '@prisma/adapter-neon':
-        specifier: ^5.13.0
-        version: 5.17.0(@neondatabase/serverless@0.9.4)
-      '@prisma/client':
-        specifier: ^5.13.0
-        version: 5.17.0(prisma@5.17.0)
-      '@prisma/extension-accelerate':
-        specifier: ^1.0.0
-        version: 1.1.0(@prisma/client@5.17.0)
-      prisma:
-        specifier: ^5.13.0
-        version: 5.17.0
-      ws:
-        specifier: ^8.17.0
-        version: 8.18.0(bufferutil@4.0.8)
-    devDependencies:
-      '@tsconfig/esm':
-        specifier: 1.0.4
-        version: 1.0.4
-      '@tsconfig/strictest':
-        specifier: 2.0.2
-        version: 2.0.2
-      '@types/node':
-        specifier: '20'
-        version: 20.14.14
-      '@types/ws':
-        specifier: ^8.5.10
-        version: 8.5.12
-      dotenv:
-        specifier: 16.3.1
-        version: 16.3.1
-      typescript:
-        specifier: 5.2.2
-        version: 5.2.2
 
   packages/eslint-config:
     devDependencies:
@@ -936,6 +832,10 @@ packages:
       '@jridgewell/resolve-uri': 3.1.1
       '@jridgewell/sourcemap-codec': 1.4.15
 
+  /@koanprotocol/testnet-token-list@1.1.1:
+    resolution: {integrity: sha512-JcmcVjVgO1Y8b4OigymWCQg39KVPpE97ytvyK0/kyqupgLW40cBy5I7dBKmiWemNShlmh+t61ncaqIKgA8ip0w==}
+    dev: false
+
   /@manypkg/find-root@1.1.0:
     resolution: {integrity: sha512-mki5uBvhHzO8kYYix/WRy2WX8S3B5wdVSc9D6KcU5lQNglP2yt58/VfLuAK49glRXChosY8ap2oJ1qgma3GUVA==}
     dependencies:
@@ -1156,8 +1056,8 @@ packages:
       postgres-array: 3.0.2
     dev: false
 
-  /@prisma/client@5.13.0(prisma@4.16.2):
-    resolution: {integrity: sha512-uYdfpPncbZ/syJyiYBwGZS8Gt1PTNoErNYMuqHDa2r30rNSFtgTA/LXsSk55R7pdRTMi5pHkeP9B14K6nHmwkg==}
+  /@prisma/client@5.17.0(prisma@4.16.2):
+    resolution: {integrity: sha512-N2tnyKayT0Zf7mHjwEyE8iG7FwTmXDHFZ1GnNhQp0pJUObsuel4ZZ1XwfuAYkq5mRIiC/Kot0kt0tGCfLJ70Jw==}
     engines: {node: '>=16.13'}
     requiresBuild: true
     peerDependencies:
@@ -1332,6 +1232,7 @@ packages:
     resolution: {integrity: sha512-d64f00982fS9YoOgJkAMolK7MN8Iq3TDdVjchbYHdEmjth/DHowx82GnoA+tVUAN+7vxfYUgAzi+JXbKNd2SDQ==}
     dependencies:
       undici-types: 5.26.5
+    dev: false
 
   /@types/normalize-package-data@2.4.4:
     resolution: {integrity: sha512-37i+OaWTh9qeK4LSHPsyRC7NahnGotNuZvjLSgcPzblpHB3rrCJxAOgI5gCdKm7coonsaX1Of0ILiTcnZjbfxA==}
@@ -1353,6 +1254,7 @@ packages:
     resolution: {integrity: sha512-3tPRkv1EtkDpzlgyKyI8pGsGZAGPEaXeu0DOj5DI25Ja91bdAYddYHbADRYVrZMRbfW+1l5YwXVDKohDJNQxkQ==}
     dependencies:
       '@types/node': 20.14.14
+    dev: false
 
   /@typescript-eslint/eslint-plugin@6.17.0(@typescript-eslint/parser@6.17.0)(eslint@8.57.0)(typescript@5.3.3):
     resolution: {integrity: sha512-Vih/4xLXmY7V490dGwBQJTpIZxH4ZFH6eCVmQ4RFkB+wmaCTDAx4dtgoWwMNGKLkqRY1L6rPqzEbjorRnDo4rQ==}
@@ -2880,11 +2782,6 @@ packages:
     engines: {node: '>=12'}
     dev: true
 
-  /dotenv@16.3.1:
-    resolution: {integrity: sha512-IPzF4w4/Rd94bA9imS68tZBaYyBWSCE47V1RGuMrB94iyTOIEwRmVL2x/4An+6mETpLrKJ5hQkB8W4kFAadeIQ==}
-    engines: {node: '>=12'}
-    dev: true
-
   /dotenv@16.4.5:
     resolution: {integrity: sha512-ZmdL2rui+eB2YwhsWzjInR8LldtZHGDoQ1ugH85ppHKwpUHL7j7rN0Ti9NCnGiQbhaZ11FpR+7ao1dNsmduNUg==}
     engines: {node: '>=12'}
@@ -3308,7 +3205,7 @@ packages:
       debug: 4.3.4
       enhanced-resolve: 5.15.0
       eslint: 8.57.0
-      eslint-module-utils: 2.8.0(@typescript-eslint/parser@6.17.0)(eslint-import-resolver-node@0.3.9)(eslint-import-resolver-typescript@3.6.1)(eslint@8.57.0)
+      eslint-module-utils: 2.8.0(@typescript-eslint/parser@6.17.0)(eslint-import-resolver-typescript@3.6.1)(eslint@8.57.0)
       eslint-plugin-import: 2.29.0(@typescript-eslint/parser@7.1.0)(eslint@8.57.0)
       fast-glob: 3.3.1
       get-tsconfig: 4.7.2
@@ -3321,7 +3218,7 @@ packages:
       - supports-color
     dev: true
 
-  /eslint-module-utils@2.8.0(@typescript-eslint/parser@6.17.0)(eslint-import-resolver-node@0.3.9)(eslint-import-resolver-typescript@3.6.1)(eslint@8.57.0):
+  /eslint-module-utils@2.8.0(@typescript-eslint/parser@6.17.0)(eslint-import-resolver-typescript@3.6.1)(eslint@8.57.0):
     resolution: {integrity: sha512-aWajIYfsqCKRDgUfjEXNN/JlrzauMuSEy5sbd7WXbtW3EH6A6MpwEh42c7qD+MqQo9QMJ6fWLAeIJynx0g6OAw==}
     engines: {node: '>=4'}
     peerDependencies:
@@ -3345,7 +3242,6 @@ packages:
       '@typescript-eslint/parser': 6.17.0(eslint@8.57.0)(typescript@5.3.3)
       debug: 3.2.7
       eslint: 8.57.0
-      eslint-import-resolver-node: 0.3.9
       eslint-import-resolver-typescript: 3.6.1(@typescript-eslint/parser@6.17.0)(eslint-plugin-import@2.29.0)(eslint@8.57.0)
     transitivePeerDependencies:
       - supports-color
@@ -6528,6 +6424,7 @@ packages:
 
   /undici-types@5.26.5:
     resolution: {integrity: sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==}
+    dev: false
 
   /undici@5.26.5:
     resolution: {integrity: sha512-cSb4bPFd5qgR7qr2jYAi0hlX9n5YKK2ONKkLFkxl+v/9BvC0sOpZjBHDBSXc5lWAf5ty9oZdRXytBIHzgUcerw==}
@@ -6971,13 +6868,8 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  /zod@3.22.4:
-    resolution: {integrity: sha512-iC+8Io04lddc+mVqQ9AZ7OQ2MrUKGN+oIQyq1vemgt46jwCwLfhq7/pwnBnNXXXZb8VTVLKwp9EDkx+ryxIWmg==}
-    dev: true
-
   /zod@3.23.8:
     resolution: {integrity: sha512-XBx9AXhXktjUqnepgTiE5flcKIYWi/rme0Eaj+5Y0lftuGBq+jyRu/md4WnuxqgP1ubdpNCsYEYPxrzVHD8d6g==}
-    dev: false
 
   /zustand@4.4.1(react@18.3.1):
     resolution: {integrity: sha512-QCPfstAS4EBiTQzlaGP1gmorkh/UL1Leaj2tdj+zZCZ/9bm0WS7sI2wnfD5lpOszFqWJ1DcPnGoY8RDL61uokw==}

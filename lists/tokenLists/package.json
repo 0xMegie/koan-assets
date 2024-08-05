@@ -1,11 +1,11 @@
 {
-  "name": "@koanprotocol/testnet-token-list",
-  "version": "1.1.1",
-  "description": "koan protocol test token list",
-  "main": "build/koantestnet.tokenlist.json",
+  "name": "@koanprotocol/token-list",
+  "version": "0.0.1",
+  "description": "koan protocol token list",
+  "main": "build/koan.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p  build && node internal/write.js > build/koantestnet.tokenlist.json",
+    "build": "rimraf build && mkdir -p  build && node internal/write.js > build/koanmainnet.tokenlist.json",
     "prepublishOnly": "pnpm test && pnpm run build",
     "volume": "ts-node ./internal/tokenVolumes.ts",
     "ci:version": "pnpm version minor",

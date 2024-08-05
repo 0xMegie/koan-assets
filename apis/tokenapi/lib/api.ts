@@ -1,15 +1,43 @@
-
+// import { createClient } from "../db";
+import { PrismaClient } from "@prisma/client";
 import { PrismaNeon } from "@prisma/adapter-neon";
 import { Pool, neonConfig } from "@neondatabase/serverless";
 import ws from "ws";
-
+import { default as defaultTokenLists } from "@koanprotocol/testnet-token-list" assert { type: "json" };
 import { readContracts } from "@wagmi/core";
+
+import { http, createConfig } from "@wagmi/core";
+import {
+  baseSepolia,
+  blastSepolia,
+  polygonMumbai,
+  sepolia,
+} from "@wagmi/core/chains";
 
 import "dotenv/config";
 import { erc20Abi, type Address } from "viem";
-import { NeonClient } from "@koan/tokenlistdb";
+// import { config } from "../wagmiConfig";
+
+const config = createConfig({
+  chains: [baseSepolia, blastSepolia, polygonMumbai, sepolia],
+  transports: {
+    [baseSepolia.id]: http(),
+    [blastSepolia.id]: http(),
+    [polygonMumbai.id]: http(),
+    [sepolia.id]: http(),
+  },
+});
 
 export const runtime = "edge";
+// const globalForPrisma = globalThis as unknown as { prisma: PrismaClient };
+
+// export const prisma = globalForPrisma.prisma || new PrismaClient();
+console.log("connection string", process.env["DATABASE_URL"]);
+neonConfig.webSocketConstructor = ws;
+const connectionString = process.env["DATABASE_URL"];
+const neon = new Pool({ connectionString: connectionString });
+const adapter = new PrismaNeon(neon);
+const prisma = new PrismaClient({ adapter });
 
 export async function getTokens() {
   // const db = await createClient();

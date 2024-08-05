@@ -1,3 +1,0 @@
-# `@koanprtocol/test-token-list`
-
-...

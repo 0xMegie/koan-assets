@@ -4,6 +4,7 @@ const { sortTokens } = require("builder");
 //token imports
 const base = require("../tokens/base.json");
 const optimism = require("../tokens/optimism.json");
+const sepolia = require("../tokens/sepolia.json");
 
 //build
 module.exports = function buildList() {
@@ -20,6 +21,6 @@ module.exports = function buildList() {
     logoURI:
       "https://raw.githubusercontent.com/koan-protocol/tokenlist/list/logos/koanlogo-256x256.png",
     keywords: ["Koanprotocol", "default"],
-    tokens: sortTokens([...base, ...optimism]),
+    tokens: sortTokens([...base, ...optimism, ...sepolia]),
   };
 };
