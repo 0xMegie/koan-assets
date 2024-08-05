@@ -38,55 +38,43 @@ async function updateTokenLogos() {
     //   });
 
     // // Process each token
-    for (const token of tokens.slice(0, 5)) {
-      const logoExists = await checkLogoExists(logoDir, token.address);
-      if (logoExists) {
-        token.logoURI = `${baseLogoUrl}/${network}/${token.address}.${logoExists}`;
+    for (const token of tokens) {
+      const logoFile = await checkLogoExists(logoDir, token.address);
+      if (logoFile) {
+        token.logoURI = `${baseLogoUrl}/${network}/${token.address}.${logoFile.extension}`;
       } else {
         if (!missingLogos[network]) missingLogos[network] = [];
         missingLogos[network].push(token.address);
       }
     }
-
+    // console.log("tokens....", tokens.slice(0, 5));
+    console.log("missingLogos....", missingLogos[network]);
     // // Save updated tokens JSON
-    // await fs.writeFile(tokensPath, JSON.stringify(tokens, null, 2));
+    await fs.writeFile(tokensPath, JSON.stringify(tokens, null, 2));
   }
 
   // Save missing logos JSON
-  //   await fs.writeFile(
-  //     path.join(__dirname, "missing_logos.json"),
-  //     JSON.stringify(missingLogos, null, 2),
-  //   );
+  await fs.writeFile(
+    path.join(__dirname, "missing_logos.json"),
+    JSON.stringify(missingLogos, null, 2),
+  );
 
   //   console.log("Token logos updated and missing logos recorded.");
 }
 
-async function checkLogoExists(
-  dir: string,
-  address: string,
-): Promise<string | null> {
+async function checkLogoExists(dir: string, address: string) {
   const files = await fs.readdir(dir);
-  console.log("address", address);
-  console.log(files.find((item) => item.split(".")[0] === address));
-  //   for (const ext of logoExtensions) {
-  //     const filePath = path
-  //       .join(dir, `${address.toLowerCase()}.${ext}`)
-  //     console.log("filePath.....", filePath);
-  //   console.log("dir.....", dir);
-  //     // console.log({
-  //     //   filePath: filePath,
-  //     // });
-
-  //     try {
-
-  //       await fs.access(filePath);
-  //         console.log("accessible");
-  //       return ext;
-  //     } catch {
-  //         console.log("error, inaccible......");
-  //       // File doesn't exist, continue to next extension
-  //     }
-  //   }
+  // console.log("address", address);
+  // console.log(files.find((item) => item.split(".")[0] === address));
+  const logoFileName = files.find((item) => item.split(".")[0] === address);
+  if (logoFileName) {
+    const extension = logoFileName.split(".")[1];
+    // console.log("extension....", extension);
+    return {
+      extension,
+      logoExist: true,
+    };
+  }
   return null;
 }
 

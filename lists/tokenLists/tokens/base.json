@@ -3,7 +3,7 @@
     "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
     "name": "USDA",
     "symbol": "USDA",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x0000206329b97DB379d5E1Bf586BbDB969C63274/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x0000206329b97DB379d5E1Bf586BbDB969C63274.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -11,7 +11,7 @@
     "address": "0x00e1724885473B63bCE08a9f0a52F35b0979e35A",
     "name": "Oath Token",
     "symbol": "OATH",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x00e1724885473B63bCE08a9f0a52F35b0979e35A/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x00e1724885473B63bCE08a9f0a52F35b0979e35A.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -27,7 +27,7 @@
     "address": "0x025f99977db78317a4EbA606998258B502Bb256F",
     "name": "VeyronPepe",
     "symbol": "VPPE",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x025f99977db78317a4EbA606998258B502Bb256F/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x025f99977db78317a4EbA606998258B502Bb256F.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -43,7 +43,7 @@
     "address": "0x04D1963C76EB1BEc59d0eEb249Ed86F736B82993",
     "name": "SoftDAO",
     "symbol": "SOFT",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x04D1963C76EB1BEc59d0eEb249Ed86F736B82993/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x04D1963C76EB1BEc59d0eEb249Ed86F736B82993.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -51,7 +51,7 @@
     "address": "0x0578d8A44db98B23BF096A382e016e29a5Ce0ffe",
     "name": "higher",
     "symbol": "HIGHER",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x0578d8A44db98B23BF096A382e016e29a5Ce0ffe/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x0578d8A44db98B23BF096A382e016e29a5Ce0ffe.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -147,7 +147,7 @@
     "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
     "name": "Virtual Protocol",
     "symbol": "VIRTUAL",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -163,7 +163,7 @@
     "address": "0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE",
     "name": "Base God",
     "symbol": "TYBG",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -179,7 +179,7 @@
     "address": "0x0e0c9756a3290cD782CF4aB73ac24D25291c9564",
     "name": "Anime",
     "symbol": "ANIME",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x0e0c9756a3290cD782CF4aB73ac24D25291c9564/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x0e0c9756a3290cD782CF4aB73ac24D25291c9564.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -195,7 +195,7 @@
     "address": "0x0f929C29dcE303F96b1d4104505F2e60eE795caC",
     "name": "NewThrone",
     "symbol": "THRO",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x0f929C29dcE303F96b1d4104505F2e60eE795caC/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x0f929C29dcE303F96b1d4104505F2e60eE795caC.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -227,7 +227,7 @@
     "address": "0x12063CC18A7096D170e5Fc410d8623Ad97ee24B3",
     "name": "FREN ALPHA ",
     "symbol": "FREN",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x12063CC18A7096D170e5Fc410d8623Ad97ee24B3/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x12063CC18A7096D170e5Fc410d8623Ad97ee24B3.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -259,7 +259,7 @@
     "address": "0x1308aE20E66E43D575a76B5Dfb30771a50C9256a",
     "name": "BaseFrog",
     "symbol": "BFROG",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x1308aE20E66E43D575a76B5Dfb30771a50C9256a/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x1308aE20E66E43D575a76B5Dfb30771a50C9256a.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -275,7 +275,7 @@
     "address": "0x1443Cbca252D1ffAE56b4ee4cc904e9554E2F6aD",
     "name": "Baldcat",
     "symbol": "baldcat",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x1443Cbca252D1ffAE56b4ee4cc904e9554E2F6aD/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x1443Cbca252D1ffAE56b4ee4cc904e9554E2F6aD.jpg",
     "chainId": 8453,
     "decimals": 8
   },
@@ -331,7 +331,7 @@
     "address": "0x18dD5B087bCA9920562aFf7A0199b96B9230438b",
     "name": "Propy",
     "symbol": "PRO",
-    "logoURI": "https://ethereum-optimism.github.io/data/PRO/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x18dD5B087bCA9920562aFf7A0199b96B9230438b.svg",
     "chainId": 8453,
     "decimals": 8
   },
@@ -355,7 +355,7 @@
     "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
     "name": "Seamless",
     "symbol": "SEAM",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -387,7 +387,7 @@
     "address": "0x1F23B787053802108fED5B67CF703f0778AEBaD8",
     "name": "Bass Token",
     "symbol": "BASS",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x1F23B787053802108fED5B67CF703f0778AEBaD8/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x1F23B787053802108fED5B67CF703f0778AEBaD8.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -403,7 +403,7 @@
     "address": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
     "name": "Axelar Wrapped WBTC",
     "symbol": "axlWBTC",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad.png",
     "chainId": 8453,
     "decimals": 8
   },
@@ -427,7 +427,7 @@
     "address": "0x1db0c569ebb4a8b57AC01833B9792F526305e062",
     "name": "GENOME",
     "symbol": "GENOME",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x1db0c569ebb4a8b57AC01833B9792F526305e062/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x1db0c569ebb4a8b57AC01833B9792F526305e062.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -435,7 +435,7 @@
     "address": "0x1dd2d631c92b1aCdFCDd51A0F7145A50130050C4",
     "name": "AlienBase Token",
     "symbol": "ALB",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x1dd2d631c92b1aCdFCDd51A0F7145A50130050C4/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x1dd2d631c92b1aCdFCDd51A0F7145A50130050C4.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -443,7 +443,7 @@
     "address": "0x1f3BA804eFB9CFe17D595e7262CEA4782dbF6e4E",
     "name": "Happy Puppy Club",
     "symbol": "HPC",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x1f3BA804eFB9CFe17D595e7262CEA4782dbF6e4E/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x1f3BA804eFB9CFe17D595e7262CEA4782dbF6e4E.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -451,7 +451,7 @@
     "address": "0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A",
     "name": "Staked Frax Ether",
     "symbol": "sfrxETH",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -467,7 +467,7 @@
     "address": "0x213a8Dc524e37bE4C908702340C6eaaD3670023d",
     "name": "Augment AERO",
     "symbol": "aAERO",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x213a8Dc524e37bE4C908702340C6eaaD3670023d/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x213a8Dc524e37bE4C908702340C6eaaD3670023d.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -475,7 +475,7 @@
     "address": "0x2168eb98C6D416Afb85E7beef5abDc4FB4177dfE",
     "name": "Blp",
     "symbol": "BLP",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x2168eb98C6D416Afb85E7beef5abDc4FB4177dfE/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x2168eb98C6D416Afb85E7beef5abDc4FB4177dfE.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -491,7 +491,7 @@
     "address": "0x2228363213E6E16e8ccC556Aa270a05f1F1A4E02",
     "name": "Mochi and Toshi",
     "symbol": "MOCHITOSHI",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x2228363213E6E16e8ccC556Aa270a05f1F1A4E02/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x2228363213E6E16e8ccC556Aa270a05f1F1A4E02.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -515,7 +515,7 @@
     "address": "0x22a2488fE295047Ba13BD8cCCdBC8361DBD8cf7c",
     "name": "Sonne",
     "symbol": "SONNE",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x22a2488fE295047Ba13BD8cCCdBC8361DBD8cf7c/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x22a2488fE295047Ba13BD8cCCdBC8361DBD8cf7c.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -523,7 +523,7 @@
     "address": "0x22e6966B799c4D5B13BE962E1D117b56327FDa66",
     "name": "Synthetix Network Token",
     "symbol": "SNX",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x22e6966B799c4D5B13BE962E1D117b56327FDa66/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x22e6966B799c4D5B13BE962E1D117b56327FDa66.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -531,7 +531,7 @@
     "address": "0x23432452B720C80553458496D4D9d7C5003280d0",
     "name": "Frax Share",
     "symbol": "FXS",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x23432452B720C80553458496D4D9d7C5003280d0/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x23432452B720C80553458496D4D9d7C5003280d0.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -539,7 +539,7 @@
     "address": "0x23471E7250bCD7ee21Df3f39Ed6151931D1E076b",
     "name": "WAI",
     "symbol": "WAI",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x23471E7250bCD7ee21Df3f39Ed6151931D1E076b/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x23471E7250bCD7ee21Df3f39Ed6151931D1E076b.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -547,7 +547,7 @@
     "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
     "name": "Base tBTC v2",
     "symbol": "tBTC",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -563,7 +563,7 @@
     "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
     "name": "Renzo Restaked ETH",
     "symbol": "ezETH",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x2416092f143378750bb29b79eD961ab195CcEea5/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x2416092f143378750bb29b79eD961ab195CcEea5.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -571,7 +571,7 @@
     "address": "0x24fcFC492C1393274B6bcd568ac9e225BEc93584",
     "name": "Heroes of Mavia",
     "symbol": "MAVIA",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x24fcFC492C1393274B6bcd568ac9e225BEc93584/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x24fcFC492C1393274B6bcd568ac9e225BEc93584.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -595,7 +595,7 @@
     "address": "0x26f3901aC8a79c50fb0d8289C74f0d09AdC42E29",
     "name": "Threshold Network Token",
     "symbol": "T",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x26f3901aC8a79c50fb0d8289C74f0d09AdC42E29/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x26f3901aC8a79c50fb0d8289C74f0d09AdC42E29.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -603,7 +603,7 @@
     "address": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
     "name": "Bald",
     "symbol": "BALD",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -635,7 +635,7 @@
     "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
     "name": "Coinbase Wrapped Staked ETH",
     "symbol": "cbETH",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -651,7 +651,7 @@
     "address": "0x2B6A85CD35D15691357eea61d88cB3f401A92FC3",
     "name": "SurvToken",
     "symbol": "SURV",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x2B6A85CD35D15691357eea61d88cB3f401A92FC3/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x2B6A85CD35D15691357eea61d88cB3f401A92FC3.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -707,7 +707,7 @@
     "address": "0x2F3b1A07E3eFb1fCc64BD09b86bD0Fa885D93552",
     "name": "MST",
     "symbol": "MST",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x2F3b1A07E3eFb1fCc64BD09b86bD0Fa885D93552/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x2F3b1A07E3eFb1fCc64BD09b86bD0Fa885D93552.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -715,7 +715,7 @@
     "address": "0x2a06A17CBC6d0032Cac2c6696DA90f29D39a1a29",
     "name": "HarryPotterObamaSonic10Inu",
     "symbol": "BITCOIN",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x2a06A17CBC6d0032Cac2c6696DA90f29D39a1a29/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x2a06A17CBC6d0032Cac2c6696DA90f29D39a1a29.png",
     "chainId": 8453,
     "decimals": 8
   },
@@ -731,7 +731,7 @@
     "address": "0x2aF864fb54b55900Cd58d19c7102d9e4FA8D84a3",
     "name": "Grand",
     "symbol": "GB",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x2aF864fb54b55900Cd58d19c7102d9e4FA8D84a3/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x2aF864fb54b55900Cd58d19c7102d9e4FA8D84a3.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -755,7 +755,7 @@
     "address": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
     "name": "Extra Finance",
     "symbol": "EXTRA",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x2dAD3a13ef0C6366220f989157009e501e7938F8/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x2dAD3a13ef0C6366220f989157009e501e7938F8.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -819,7 +819,7 @@
     "address": "0x321725ee44CB4bfA544CF45a5A585b925d30A58C",
     "name": "ValleyDAO Token",
     "symbol": "GROW",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x321725ee44CB4bfA544CF45a5A585b925d30A58C/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x321725ee44CB4bfA544CF45a5A585b925d30A58C.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -867,7 +867,7 @@
     "address": "0x348Fdfe2c35934A96C1353185F09D0F9efBAdA86",
     "name": "Arbitrove Governance Token",
     "symbol": "TROVE",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x348Fdfe2c35934A96C1353185F09D0F9efBAdA86/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x348Fdfe2c35934A96C1353185F09D0F9efBAdA86.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -875,7 +875,7 @@
     "address": "0x368181499736d0c0CC614DBB145E2EC1AC86b8c6",
     "name": "LUSD Stablecoin",
     "symbol": "LUSD",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x368181499736d0c0CC614DBB145E2EC1AC86b8c6/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x368181499736d0c0CC614DBB145E2EC1AC86b8c6.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -891,7 +891,7 @@
     "address": "0x37289326b7Bca5a776A5071b8d693C0588c5C9A6",
     "name": "Feisty Doge",
     "symbol": "NFD",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x37289326b7Bca5a776A5071b8d693C0588c5C9A6/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x37289326b7Bca5a776A5071b8d693C0588c5C9A6.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -907,7 +907,7 @@
     "address": "0x373504DA48418C67E6FCD071F33Cb0b3B47613C7",
     "name": "Wrapped BaseDOGE",
     "symbol": "wBaseDOGE",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x373504DA48418C67E6FCD071F33Cb0b3B47613C7/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x373504DA48418C67E6FCD071F33Cb0b3B47613C7.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -931,7 +931,7 @@
     "address": "0x37Ab9F42051C112CAAba55AB6487dd74286A0B29",
     "name": "Kwenta",
     "symbol": "KWENTA",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x37Ab9F42051C112CAAba55AB6487dd74286A0B29/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x37Ab9F42051C112CAAba55AB6487dd74286A0B29.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -955,7 +955,7 @@
     "address": "0x3816dD4bd44c8830c2FA020A5605bAC72FA3De7A",
     "name": "Presearch",
     "symbol": "PRE",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x3816dD4bd44c8830c2FA020A5605bAC72FA3De7A/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x3816dD4bd44c8830c2FA020A5605bAC72FA3De7A.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1027,7 +1027,7 @@
     "address": "0x3Ff7AB26F2dfD482C40bDaDfC0e88D01BFf79713",
     "name": "Option to buy BMX",
     "symbol": "oBMX",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x3Ff7AB26F2dfD482C40bDaDfC0e88D01BFf79713/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x3Ff7AB26F2dfD482C40bDaDfC0e88D01BFf79713.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1091,7 +1091,7 @@
     "address": "0x3fbdE9864362CE4Abb244EbeF2EF0482ABA8eA39",
     "name": "BavaToken",
     "symbol": "BAVA",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x3fbdE9864362CE4Abb244EbeF2EF0482ABA8eA39/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x3fbdE9864362CE4Abb244EbeF2EF0482ABA8eA39.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1099,7 +1099,7 @@
     "address": "0x417Ac0e078398C154EdFadD9Ef675d30Be60Af93",
     "name": "Curve.Fi USD Stablecoin",
     "symbol": "crvUSD",
-    "logoURI": "https://ethereum-optimism.github.io/data/crvUSD/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x417Ac0e078398C154EdFadD9Ef675d30Be60Af93.svg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1115,7 +1115,7 @@
     "address": "0x4200000000000000000000000000000000000006",
     "name": "Wrapped Ether",
     "symbol": "WETH",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x4200000000000000000000000000000000000006/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x4200000000000000000000000000000000000006.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1123,7 +1123,7 @@
     "address": "0x4385Fc5A3bD501cf7fFCaF672bA71BBA97D3F7fC",
     "name": "BaseHawk",
     "symbol": "bHAWK",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x4385Fc5A3bD501cf7fFCaF672bA71BBA97D3F7fC/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x4385Fc5A3bD501cf7fFCaF672bA71BBA97D3F7fC.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1171,7 +1171,7 @@
     "address": "0x4621b7A9c75199271F773Ebd9A499dbd165c3191",
     "name": "Dola USD Stablecoin",
     "symbol": "DOLA",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x4621b7A9c75199271F773Ebd9A499dbd165c3191/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x4621b7A9c75199271F773Ebd9A499dbd165c3191.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1187,7 +1187,7 @@
     "address": "0x471b9900534CA3Fd67e2BECF8f27768DBAA81583",
     "name": "purr",
     "symbol": "PURR",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x471b9900534CA3Fd67e2BECF8f27768DBAA81583/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x471b9900534CA3Fd67e2BECF8f27768DBAA81583.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1259,7 +1259,7 @@
     "address": "0x489fe42C267fe0366B16b0c39e7AEEf977E841eF",
     "name": "Wrapped Ampleforth",
     "symbol": "WAMPL",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x489fe42C267fe0366B16b0c39e7AEEf977E841eF/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x489fe42C267fe0366B16b0c39e7AEEf977E841eF.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1275,7 +1275,7 @@
     "address": "0x490a4B510d0Ea9f835D2dF29Eb73b4FcA5071937",
     "name": "VitaDAO Token",
     "symbol": "VITA",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x490a4B510d0Ea9f835D2dF29Eb73b4FcA5071937/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x490a4B510d0Ea9f835D2dF29Eb73b4FcA5071937.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1291,7 +1291,7 @@
     "address": "0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D",
     "name": "Magic Internet Money",
     "symbol": "MIM",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1322,7 +1322,7 @@
   {
     "address": "0x4Dd96Ed853328EE8517D87c0276500c8d4801B4E",
     "name": "BASE BEAR",
-    "symbol": "\u0295\u2022\u1d25\u2022\u0294",
+    "symbol": "ʕ•ᴥ•ʔ",
     "logoURI": "https://assets.smold.app/api/token/8453/0x4Dd96Ed853328EE8517D87c0276500c8d4801B4E/logo-128.png",
     "chainId": 8453,
     "decimals": 18
@@ -1339,7 +1339,7 @@
     "address": "0x4E74D4Db6c0726ccded4656d0BCE448876BB4C7A",
     "name": "Wrapped BMX Liquidity Token",
     "symbol": "wBLT",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x4E74D4Db6c0726ccded4656d0BCE448876BB4C7A/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x4E74D4Db6c0726ccded4656d0BCE448876BB4C7A.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1387,7 +1387,7 @@
     "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
     "name": "Degen",
     "symbol": "DEGEN",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1403,7 +1403,7 @@
     "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
     "name": "Dai Stablecoin",
     "symbol": "DAI",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1411,7 +1411,7 @@
     "address": "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C",
     "name": "SPX6900",
     "symbol": "SPX",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C.png",
     "chainId": 8453,
     "decimals": 8
   },
@@ -1427,7 +1427,7 @@
     "address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
     "name": "Brett",
     "symbol": "BRETT",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x532f27101965dd16442E59d40670FaF5eBB142E4/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x532f27101965dd16442E59d40670FaF5eBB142E4.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1435,7 +1435,7 @@
     "address": "0x548f93779fBC992010C07467cBaf329DD5F059B7",
     "name": "BMX",
     "symbol": "BMX",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x548f93779fBC992010C07467cBaf329DD5F059B7/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x548f93779fBC992010C07467cBaf329DD5F059B7.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1443,7 +1443,7 @@
     "address": "0x54BC229d1cB15F8B6415EfEab4290a40bc8b7D84",
     "name": "dHedge DAO Token",
     "symbol": "DHT",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x54BC229d1cB15F8B6415EfEab4290a40bc8b7D84/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x54BC229d1cB15F8B6415EfEab4290a40bc8b7D84.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1515,14 +1515,14 @@
     "address": "0x5A76A56ad937335168b30dF3AA1327277421C6Ae",
     "name": "Vela Token",
     "symbol": "VELA",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x5A76A56ad937335168b30dF3AA1327277421C6Ae/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x5A76A56ad937335168b30dF3AA1327277421C6Ae.jpg",
     "chainId": 8453,
     "decimals": 18
   },
   {
     "address": "0x5Aacb870842382315B875f72Ef66d4fa8D940C50",
     "name": "Basepepe",
-    "symbol": "\ud83d\udc38 ",
+    "symbol": "🐸 ",
     "logoURI": "https://assets.smold.app/api/token/8453/0x5Aacb870842382315B875f72Ef66d4fa8D940C50/logo-128.png",
     "chainId": 8453,
     "decimals": 18
@@ -1539,7 +1539,7 @@
     "address": "0x5B5dee44552546ECEA05EDeA01DCD7Be7aa6144A",
     "name": "The Next 100x Memecoin on Base",
     "symbol": "TN100x",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x5B5dee44552546ECEA05EDeA01DCD7Be7aa6144A/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x5B5dee44552546ECEA05EDeA01DCD7Be7aa6144A.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1563,7 +1563,7 @@
     "address": "0x5E42c17CAEab64527D9d80d506a3FE01179afa02",
     "name": "Tetu Token",
     "symbol": "TETU",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x5E42c17CAEab64527D9d80d506a3FE01179afa02/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x5E42c17CAEab64527D9d80d506a3FE01179afa02.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1579,7 +1579,7 @@
     "address": "0x5a01BDaA010938Eb7615c63cB22cf3e94e8505df",
     "name": "DRODEC",
     "symbol": "DRODEC",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x5a01BDaA010938Eb7615c63cB22cf3e94e8505df/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x5a01BDaA010938Eb7615c63cB22cf3e94e8505df.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1611,7 +1611,7 @@
     "address": "0x608d5401d377228E465Ba6113517dCf9bD1f95CA",
     "name": "BasedRate.io SHARE",
     "symbol": "BSHARE",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x608d5401d377228E465Ba6113517dCf9bD1f95CA/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x608d5401d377228E465Ba6113517dCf9bD1f95CA.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1699,7 +1699,7 @@
     "address": "0x641B0453487C9D14c5df96d45a481ef1dc84e31f",
     "name": "Maat",
     "symbol": "MAAT",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x641B0453487C9D14c5df96d45a481ef1dc84e31f/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x641B0453487C9D14c5df96d45a481ef1dc84e31f.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1771,7 +1771,7 @@
     "address": "0x68f0a05FDc8773d9a5Fd1304ca411ACc234ce22c",
     "name": "Tetu V2 tUSDbC",
     "symbol": "tUSDbC",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x68f0a05FDc8773d9a5Fd1304ca411ACc234ce22c/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x68f0a05FDc8773d9a5Fd1304ca411ACc234ce22c.png",
     "chainId": 8453,
     "decimals": 6
   },
@@ -1787,7 +1787,7 @@
     "address": "0x6921B130D297cc43754afba22e5EAc0FBf8Db75b",
     "name": "doginme",
     "symbol": "doginme",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x6921B130D297cc43754afba22e5EAc0FBf8Db75b/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x6921B130D297cc43754afba22e5EAc0FBf8Db75b.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1811,7 +1811,7 @@
     "address": "0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC",
     "name": "RAZOR",
     "symbol": "RAZOR",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1819,7 +1819,7 @@
     "address": "0x6B4712AE9797C199edd44F897cA09BC57628a1CF",
     "name": "Unidex",
     "symbol": "UNIDX",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x6B4712AE9797C199edd44F897cA09BC57628a1CF/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x6B4712AE9797C199edd44F897cA09BC57628a1CF.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1939,7 +1939,7 @@
     "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
     "name": "Fantom Bomb",
     "symbol": "fBOMB",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1955,7 +1955,7 @@
     "address": "0x777b2839832982B35213063d850848369390EE16",
     "name": "JARVIS",
     "symbol": "JARVIS",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x777b2839832982B35213063d850848369390EE16/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x777b2839832982B35213063d850848369390EE16.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -1979,7 +1979,7 @@
     "address": "0x78b3C724A2F663D11373C4a1978689271895256f",
     "name": "TokenDao",
     "symbol": "TKN",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x78b3C724A2F663D11373C4a1978689271895256f/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x78b3C724A2F663D11373C4a1978689271895256f.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2003,7 +2003,7 @@
     "address": "0x7ED613AB8b2b4c6A781DDC97eA98a666c6437511",
     "name": "All Your Base",
     "symbol": "AYB",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x7ED613AB8b2b4c6A781DDC97eA98a666c6437511/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x7ED613AB8b2b4c6A781DDC97eA98a666c6437511.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2019,7 +2019,7 @@
     "address": "0x7F12d13B34F5F4f0a9449c16Bcd42f0da47AF200",
     "name": "Normie",
     "symbol": "NORMIE",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x7F12d13B34F5F4f0a9449c16Bcd42f0da47AF200/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x7F12d13B34F5F4f0a9449c16Bcd42f0da47AF200.jpg",
     "chainId": 8453,
     "decimals": 9
   },
@@ -2027,7 +2027,7 @@
     "address": "0x7F62ac1e974D65Fab4A81821CA6AF659A5F46298",
     "name": "Wrapped Ethlas Token",
     "symbol": "WELS",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x7F62ac1e974D65Fab4A81821CA6AF659A5F46298/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x7F62ac1e974D65Fab4A81821CA6AF659A5F46298.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2107,7 +2107,7 @@
     "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
     "name": "USD Coin",
     "symbol": "USDC",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.jpg",
     "chainId": 8453,
     "decimals": 6
   },
@@ -2131,7 +2131,7 @@
     "address": "0x8544FE9D190fD7EC52860abBf45088E81Ee24a8c",
     "name": "Toshi",
     "symbol": "TOSHI",
-    "logoURI": "https://tokens.1inch.io/0x8544fe9d190fd7ec52860abbf45088e81ee24a8c.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x8544FE9D190fD7EC52860abBf45088E81Ee24a8c.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2155,7 +2155,7 @@
     "address": "0x85E90a5430AF45776548ADB82eE4cD9E33B08077",
     "name": "DINO",
     "symbol": "DINO",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x85E90a5430AF45776548ADB82eE4cD9E33B08077/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x85E90a5430AF45776548ADB82eE4cD9E33B08077.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2203,7 +2203,7 @@
     "address": "0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
     "name": "YieldFarming Index",
     "symbol": "YFX",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2211,7 +2211,7 @@
     "address": "0x895A26F67a8375D0419Cb7E4bd1109aC139ab741",
     "name": "Jelly",
     "symbol": "JELLY",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x895A26F67a8375D0419Cb7E4bd1109aC139ab741/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x895A26F67a8375D0419Cb7E4bd1109aC139ab741.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2235,7 +2235,7 @@
     "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
     "name": "Sumerian USD",
     "symbol": "suUSD",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2267,7 +2267,7 @@
     "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
     "name": "dHedge DAO Token",
     "symbol": "DHT",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x8aE125E8653821E851F12A49F7765db9a9ce7384/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x8aE125E8653821E851F12A49F7765db9a9ce7384.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2331,7 +2331,7 @@
     "address": "0x8f2E6758C4D6570344bd5007DEc6301cd57590A0",
     "name": "SPOT",
     "symbol": "SPOT",
-    "logoURI": "https://ethereum-optimism.github.io/data/SPOT/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x8f2E6758C4D6570344bd5007DEc6301cd57590A0.svg",
     "chainId": 8453,
     "decimals": 9
   },
@@ -2379,7 +2379,7 @@
     "address": "0x93dc5Cb35627A759848c7A7F0079EA7b49E435a5",
     "name": "Metronome2",
     "symbol": "MET",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x93dc5Cb35627A759848c7A7F0079EA7b49E435a5/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x93dc5Cb35627A759848c7A7F0079EA7b49E435a5.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2387,7 +2387,7 @@
     "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
     "name": "Aerodrome",
     "symbol": "AERO",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x940181a94A35A4569E4529A3CDfB74e38FD98631/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x940181a94A35A4569E4529A3CDfB74e38FD98631.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2395,7 +2395,7 @@
     "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
     "name": "BetSwirl v2",
     "symbol": "BETS",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2411,7 +2411,7 @@
     "address": "0x9483ab65847A447e36d21af1CaB8C87e9712ff93",
     "name": "Wrapped USDR",
     "symbol": "wUSDR",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x9483ab65847A447e36d21af1CaB8C87e9712ff93/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x9483ab65847A447e36d21af1CaB8C87e9712ff93.png",
     "chainId": 8453,
     "decimals": 9
   },
@@ -2427,7 +2427,7 @@
     "address": "0x96e890c6b2501a69cAD5Dba402BFB871a2A2874C",
     "name": "AAG",
     "symbol": "AAG",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x96e890c6b2501a69cAD5Dba402BFB871a2A2874C/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x96e890c6b2501a69cAD5Dba402BFB871a2A2874C.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2451,7 +2451,7 @@
     "address": "0x981D41C115a2d48Cb1215D13Bda8f989d407c9c5",
     "name": "Xena",
     "symbol": "XEN",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x981D41C115a2d48Cb1215D13Bda8f989d407c9c5/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x981D41C115a2d48Cb1215D13Bda8f989d407c9c5.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2491,7 +2491,7 @@
     "address": "0x9CBD543f1B1166b2Df36b68Eb6bB1DcE24E6aBDf",
     "name": "BASED Token",
     "symbol": "BASED",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x9CBD543f1B1166b2Df36b68Eb6bB1DcE24E6aBDf/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x9CBD543f1B1166b2Df36b68Eb6bB1DcE24E6aBDf.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2523,7 +2523,7 @@
     "address": "0x9E53e88dCff56d3062510A745952DEC4cEFDff9E",
     "name": "Basic Dog Meme",
     "symbol": "DOG",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x9E53e88dCff56d3062510A745952DEC4cEFDff9E/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x9E53e88dCff56d3062510A745952DEC4cEFDff9E.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2595,7 +2595,7 @@
     "address": "0xA19328fb05ce6FD204D16c2a2A98F7CF434c12F4",
     "name": "L2VE",
     "symbol": "L2VE",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xA19328fb05ce6FD204D16c2a2A98F7CF434c12F4/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xA19328fb05ce6FD204D16c2a2A98F7CF434c12F4.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2619,7 +2619,7 @@
     "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
     "name": "OVN",
     "symbol": "OVN",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2635,7 +2635,7 @@
     "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
     "name": "EURA (previously agEUR)",
     "symbol": "EURA",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xA61BeB4A3d02decb01039e378237032B351125B4/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xA61BeB4A3d02decb01039e378237032B351125B4.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2651,7 +2651,7 @@
     "address": "0xA88594D404727625A9437C3f886C7643872296AE",
     "name": "WELL",
     "symbol": "WELL",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xA88594D404727625A9437C3f886C7643872296AE/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xA88594D404727625A9437C3f886C7643872296AE.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2667,7 +2667,7 @@
     "address": "0xA9C9Dcb054421DEDc9d9006CFfe843D0a5Cd6339",
     "name": "Sustainable Growth",
     "symbol": "SUS",
-    "logoURI": "https://ethereum-optimism.github.io/data/SUS/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xA9C9Dcb054421DEDc9d9006CFfe843D0a5Cd6339.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2683,7 +2683,7 @@
     "address": "0xAB8a1c03b8E4e1D21c8Ddd6eDf9e07f26E843492",
     "name": "SHREKT",
     "symbol": "OGRE",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xAB8a1c03b8E4e1D21c8Ddd6eDf9e07f26E843492/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xAB8a1c03b8E4e1D21c8Ddd6eDf9e07f26E843492.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2691,7 +2691,7 @@
     "address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
     "name": "Toshi",
     "symbol": "TOSHI",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2715,7 +2715,7 @@
     "address": "0xAfb89a09D82FBDE58f18Ac6437B3fC81724e4dF6",
     "name": "The Doge NFT",
     "symbol": "DOG",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xAfb89a09D82FBDE58f18Ac6437B3fC81724e4dF6/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xAfb89a09D82FBDE58f18Ac6437B3fC81724e4dF6.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2731,7 +2731,7 @@
     "address": "0xB166E8B140D35D9D8226E40C09f757BAC5A4d87d",
     "name": "Non-Playable Coin",
     "symbol": "NPC",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xB166E8B140D35D9D8226E40C09f757BAC5A4d87d/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xB166E8B140D35D9D8226E40C09f757BAC5A4d87d.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2771,7 +2771,7 @@
     "address": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
     "name": "Rocket Pool ETH",
     "symbol": "rETH",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2819,7 +2819,7 @@
     "address": "0xBC45647eA894030a4E9801Ec03479739FA2485F0",
     "name": "Basenji",
     "symbol": "BENJI",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xBC45647eA894030a4E9801Ec03479739FA2485F0/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xBC45647eA894030a4E9801Ec03479739FA2485F0.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2827,7 +2827,7 @@
     "address": "0xBCBAe0DD948b404e2157Ff395caCB10ABFc2b52A",
     "name": "Insane Technology Index",
     "symbol": "ITX",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xBCBAe0DD948b404e2157Ff395caCB10ABFc2b52A/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xBCBAe0DD948b404e2157Ff395caCB10ABFc2b52A.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2841,7 +2841,7 @@
   },
   {
     "address": "0xBd20B3e9b6f6AD3b544E00bE1199d75953812790",
-    "name": "D\u0131g\u0131d\u0131k",
+    "name": "Dıgıdık",
     "symbol": "DGDK",
     "logoURI": "https://assets.smold.app/api/token/8453/0xBd20B3e9b6f6AD3b544E00bE1199d75953812790/logo-128.png",
     "chainId": 8453,
@@ -2867,7 +2867,7 @@
     "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
     "name": "STAR",
     "symbol": "STAR",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xC19669A405067927865B40Ea045a2baabbbe57f5/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xC19669A405067927865B40Ea045a2baabbbe57f5.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2931,7 +2931,7 @@
     "address": "0xC9a3e2B3064c1c0546D3D0edc0A748E9f93Cf18d",
     "name": "Vaya",
     "symbol": "Vaya",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xC9a3e2B3064c1c0546D3D0edc0A748E9f93Cf18d/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xC9a3e2B3064c1c0546D3D0edc0A748E9f93Cf18d.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2979,7 +2979,7 @@
     "address": "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff",
     "name": "Based ETH",
     "symbol": "bsdETH",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -2995,7 +2995,7 @@
     "address": "0xCc7FF230365bD730eE4B352cC2492CEdAC49383e",
     "name": "High Yield USD",
     "symbol": "hyUSD",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xCc7FF230365bD730eE4B352cC2492CEdAC49383e/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xCc7FF230365bD730eE4B352cC2492CEdAC49383e.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3003,7 +3003,7 @@
     "address": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
     "name": "Electronic Dollar",
     "symbol": "eUSD",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3011,7 +3011,7 @@
     "address": "0xD064c53f043d5aee2Ac9503B13eE012BF2def1d0",
     "name": "DeFido",
     "symbol": "DEFIDO",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xD064c53f043d5aee2Ac9503B13eE012BF2def1d0/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xD064c53f043d5aee2Ac9503B13eE012BF2def1d0.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3019,7 +3019,7 @@
     "address": "0xD08a2917653d4E460893203471f0000826fb4034",
     "name": "FARM Reward Token",
     "symbol": "FARM",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xD08a2917653d4E460893203471f0000826fb4034/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xD08a2917653d4E460893203471f0000826fb4034.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3027,7 +3027,7 @@
     "address": "0xD0A96c9b21565a7B73d006C02E56E09438b51C1B",
     "name": "bSHARE Token",
     "symbol": "bSHARE",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xD0A96c9b21565a7B73d006C02E56E09438b51C1B/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xD0A96c9b21565a7B73d006C02E56E09438b51C1B.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3043,7 +3043,7 @@
     "address": "0xD1917629B3E6A72E6772Aab5dBe58Eb7FA3C2F33",
     "name": "Settled ETHXY Token",
     "symbol": "SEXY",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xD1917629B3E6A72E6772Aab5dBe58Eb7FA3C2F33/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xD1917629B3E6A72E6772Aab5dBe58Eb7FA3C2F33.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3051,7 +3051,7 @@
     "address": "0xD1dB4851bcF5B41442cAA32025Ce0Afe6B8EabC2",
     "name": "Based ZoomerCoin",
     "symbol": "ZOOMER",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xD1dB4851bcF5B41442cAA32025Ce0Afe6B8EabC2/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xD1dB4851bcF5B41442cAA32025Ce0Afe6B8EabC2.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3067,7 +3067,7 @@
     "address": "0xD3FDCb837DAfdb7C9C3eBD48FE22a53F6Dd3d7D7",
     "name": "QiDao",
     "symbol": "QI",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xD3FDCb837DAfdb7C9C3eBD48FE22a53F6Dd3d7D7/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xD3FDCb837DAfdb7C9C3eBD48FE22a53F6Dd3d7D7.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3123,7 +3123,7 @@
     "address": "0xDCEFd8C8fCc492630B943ABcaB3429F12Ea9Fea2",
     "name": "Klima DAO",
     "symbol": "KLIMA",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xDCEFd8C8fCc492630B943ABcaB3429F12Ea9Fea2/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xDCEFd8C8fCc492630B943ABcaB3429F12Ea9Fea2.png",
     "chainId": 8453,
     "decimals": 9
   },
@@ -3131,7 +3131,7 @@
     "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
     "name": "DEUS",
     "symbol": "DEUS",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3179,7 +3179,7 @@
     "address": "0xE2B21D4684b2bA62F3BE1FE286eacb90D26E394d",
     "name": "CryptoOracle Collective",
     "symbol": "COC",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xE2B21D4684b2bA62F3BE1FE286eacb90D26E394d/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xE2B21D4684b2bA62F3BE1FE286eacb90D26E394d.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3195,7 +3195,7 @@
     "address": "0xE3B53AF74a4BF62Ae5511055290838050bf764Df",
     "name": "StargateToken",
     "symbol": "STG",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xE3B53AF74a4BF62Ae5511055290838050bf764Df/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xE3B53AF74a4BF62Ae5511055290838050bf764Df.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3219,7 +3219,7 @@
     "address": "0xE912d176246fF9F548Aab20EEd84630B897F5593",
     "name": "TEUR",
     "symbol": "TEUR",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xE912d176246fF9F548Aab20EEd84630B897F5593/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xE912d176246fF9F548Aab20EEd84630B897F5593.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3235,7 +3235,7 @@
     "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
     "name": "Axelar Wrapped USDC",
     "symbol": "axlUSDC",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xEB466342C4d449BC9f53A865D5Cb90586f405215/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
     "chainId": 8453,
     "decimals": 6
   },
@@ -3259,7 +3259,7 @@
     "address": "0xEcE7B98bD817ee5B1F2f536dAf34D0B6af8Bb542",
     "name": "BLACK ROCK",
     "symbol": "ROCK",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xEcE7B98bD817ee5B1F2f536dAf34D0B6af8Bb542/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xEcE7B98bD817ee5B1F2f536dAf34D0B6af8Bb542.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3267,7 +3267,7 @@
     "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
     "name": "Ethereum",
     "symbol": "ETH",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3323,7 +3323,7 @@
     "address": "0xF37923311D71c986D701cddb3394777322294E3a",
     "name": "DOHCOIN",
     "symbol": "DOH",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xF37923311D71c986D701cddb3394777322294E3a/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xF37923311D71c986D701cddb3394777322294E3a.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3339,7 +3339,7 @@
     "address": "0xF4435cC8b478d54313F04c956882BE3D9aCf9F6F",
     "name": "Luchadores.io LUCHA Token",
     "symbol": "LUCHA",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xF4435cC8b478d54313F04c956882BE3D9aCf9F6F/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xF4435cC8b478d54313F04c956882BE3D9aCf9F6F.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3347,7 +3347,7 @@
     "address": "0xF544251D25f3d243A36B07e7E7962a678f952691",
     "name": "Tarot",
     "symbol": "TAROT",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xF544251D25f3d243A36B07e7E7962a678f952691/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xF544251D25f3d243A36B07e7E7962a678f952691.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3363,7 +3363,7 @@
     "address": "0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50",
     "name": "Mochi",
     "symbol": "MOCHI",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3385,7 +3385,7 @@
   },
   {
     "address": "0xFE7fD526c02B275CCcC127724a56Ce913aE57F6C",
-    "name": "\ud83d\udd35",
+    "name": "🔵",
     "symbol": "blue",
     "logoURI": "https://assets.smold.app/api/token/8453/0xFE7fD526c02B275CCcC127724a56Ce913aE57F6C/logo-128.png",
     "chainId": 8453,
@@ -3395,7 +3395,7 @@
     "address": "0xFF0C532FDB8Cd566Ae169C1CB157ff2Bdc83E105",
     "name": "Fren Pet",
     "symbol": "Fren Pet",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xFF0C532FDB8Cd566Ae169C1CB157ff2Bdc83E105/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xFF0C532FDB8Cd566Ae169C1CB157ff2Bdc83E105.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3411,7 +3411,7 @@
     "address": "0xFF8adeC2221f9f4D8dfbAFa6B9a297d17603493D",
     "name": "WELL",
     "symbol": "WELL",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xFF8adeC2221f9f4D8dfbAFa6B9a297d17603493D/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xFF8adeC2221f9f4D8dfbAFa6B9a297d17603493D.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3459,7 +3459,7 @@
     "address": "0xa023E6f6B4862EA38cbe45e377abD908abAb2f82",
     "name": "Wrapped MTRG by meter.io",
     "symbol": "eMTRG",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xa023E6f6B4862EA38cbe45e377abD908abAb2f82/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xa023E6f6B4862EA38cbe45e377abD908abAb2f82.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3475,7 +3475,7 @@
     "address": "0xa334884bF6b0A066d553D19e507315E839409e62",
     "name": "Ethos Reserve Note",
     "symbol": "ERN",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xa334884bF6b0A066d553D19e507315E839409e62/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xa334884bF6b0A066d553D19e507315E839409e62.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3523,7 +3523,7 @@
     "address": "0xaB36452DbAC151bE02b16Ca17d8919826072f64a",
     "name": "Reserve Rights",
     "symbol": "RSR",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xaB36452DbAC151bE02b16Ca17d8919826072f64a/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xaB36452DbAC151bE02b16Ca17d8919826072f64a.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3547,7 +3547,7 @@
     "address": "0xaFB2820316e7Bc5Ef78d295AB9b8Bb2257534576",
     "name": "R Stablecoin",
     "symbol": "R",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xaFB2820316e7Bc5Ef78d295AB9b8Bb2257534576/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xaFB2820316e7Bc5Ef78d295AB9b8Bb2257534576.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3595,7 +3595,7 @@
     "address": "0xb8D98a102b0079B69FFbc760C8d857A31653e56e",
     "name": "toby",
     "symbol": "toby",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xb8D98a102b0079B69FFbc760C8d857A31653e56e/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xb8D98a102b0079B69FFbc760C8d857A31653e56e.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3611,7 +3611,7 @@
     "address": "0xbE3111856e4acA828593274eA6872f27968C8DD6",
     "name": "KRAV",
     "symbol": "KRAV",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xbE3111856e4acA828593274eA6872f27968C8DD6/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xbE3111856e4acA828593274eA6872f27968C8DD6.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3619,7 +3619,7 @@
     "address": "0xba7D47f471ADD16875e765edEe0858C3413A56Fd",
     "name": "Meta",
     "symbol": "MTA",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xba7D47f471ADD16875e765edEe0858C3413A56Fd/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xba7D47f471ADD16875e765edEe0858C3413A56Fd.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3643,7 +3643,7 @@
     "address": "0xbf1aeA8670D2528E08334083616dD9C5F3B087aE",
     "name": "Mai Stablecoin",
     "symbol": "MAI",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xbf1aeA8670D2528E08334083616dD9C5F3B087aE/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xbf1aeA8670D2528E08334083616dD9C5F3B087aE.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3659,7 +3659,7 @@
     "address": "0xc142171B138DB17a1B7Cb999C44526094a4dae05",
     "name": "dForce USD",
     "symbol": "USX",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xc142171B138DB17a1B7Cb999C44526094a4dae05/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xc142171B138DB17a1B7Cb999C44526094a4dae05.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3667,7 +3667,7 @@
     "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
     "name": "Wrapped liquid staked Ether 2.0",
     "symbol": "wstETH",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3683,7 +3683,7 @@
     "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
     "name": "Hop",
     "symbol": "HOP",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3707,7 +3707,7 @@
     "address": "0xcD2F22236DD9Dfe2356D7C543161D4d260FD9BcB",
     "name": "Aavegotchi GHST Token",
     "symbol": "GHST",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xcD2F22236DD9Dfe2356D7C543161D4d260FD9BcB/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xcD2F22236DD9Dfe2356D7C543161D4d260FD9BcB.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3715,7 +3715,7 @@
     "address": "0xcDE90558fc317C69580DeeAF3eFC509428Df9080",
     "name": "Normilio",
     "symbol": "NORMILIO",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xcDE90558fc317C69580DeeAF3eFC509428Df9080/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xcDE90558fc317C69580DeeAF3eFC509428Df9080.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3755,7 +3755,7 @@
     "address": "0xd260115030b9fB6849da169a01ed80b6496d1e99",
     "name": "BasedRate.io RATE",
     "symbol": "BRATE",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xd260115030b9fB6849da169a01ed80b6496d1e99/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xd260115030b9fB6849da169a01ed80b6496d1e99.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3779,7 +3779,7 @@
     "address": "0xd652C5425aea2Afd5fb142e120FeCf79e18fafc3",
     "name": "PoolTogether",
     "symbol": "POOL",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xd652C5425aea2Afd5fb142e120FeCf79e18fafc3/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xd652C5425aea2Afd5fb142e120FeCf79e18fafc3.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3803,7 +3803,7 @@
     "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
     "name": "USD Base Coin",
     "symbol": "USDbC",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA.jpg",
     "chainId": 8453,
     "decimals": 6
   },
@@ -3859,7 +3859,7 @@
     "address": "0xe4796cCB6bB5DE2290C417Ac337F2b66CA2E770E",
     "name": "Staked FRAX",
     "symbol": "sFRAX",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xe4796cCB6bB5DE2290C417Ac337F2b66CA2E770E/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xe4796cCB6bB5DE2290C417Ac337F2b66CA2E770E.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3915,7 +3915,7 @@
     "address": "0xecaF81Eb42cd30014EB44130b89Bcd6d4Ad98B92",
     "name": "Based Chad",
     "symbol": "CHAD",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xecaF81Eb42cd30014EB44130b89Bcd6d4Ad98B92/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xecaF81Eb42cd30014EB44130b89Bcd6d4Ad98B92.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3955,7 +3955,7 @@
     "address": "0xf34e0cff046e154CAfCae502C7541b9E5FD8C249",
     "name": "Thales DAO Token",
     "symbol": "THALES",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xf34e0cff046e154CAfCae502C7541b9E5FD8C249/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xf34e0cff046e154CAfCae502C7541b9E5FD8C249.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -3995,7 +3995,7 @@
     "address": "0xf7A0dd3317535eC4f4d29ADF9d620B3d8D5D5069",
     "name": "Staked ERN Vault",
     "symbol": "stERN",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xf7A0dd3317535eC4f4d29ADF9d620B3d8D5D5069/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xf7A0dd3317535eC4f4d29ADF9d620B3d8D5D5069.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -4003,7 +4003,7 @@
     "address": "0xf7C1CEfCf7E1dd8161e00099facD3E1Db9e528ee",
     "name": "TOWER",
     "symbol": "TOWER",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xf7C1CEfCf7E1dd8161e00099facD3E1Db9e528ee/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xf7C1CEfCf7E1dd8161e00099facD3E1Db9e528ee.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -4035,7 +4035,7 @@
     "address": "0xfA980cEd6895AC314E7dE34Ef1bFAE90a5AdD21b",
     "name": "Prime",
     "symbol": "PRIME",
-    "logoURI": "https://assets.coingecko.com/coins/images/29053/large/PRIMELOGOOO.png?1676976222",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xfA980cEd6895AC314E7dE34Ef1bFAE90a5AdD21b.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -4059,7 +4059,7 @@
     "address": "0xfEA9DcDc9E23a9068bF557AD5b186675C61d33eA",
     "name": "Based Shiba Inu",
     "symbol": "BSHIB",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xfEA9DcDc9E23a9068bF557AD5b186675C61d33eA/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xfEA9DcDc9E23a9068bF557AD5b186675C61d33eA.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -4123,7 +4123,7 @@
     "address": "0x04D5ddf5f3a8939889F11E97f8c4BB48317F1938",
     "name": "USDz",
     "symbol": "USDz",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x04D5ddf5f3a8939889F11E97f8c4BB48317F1938/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x04D5ddf5f3a8939889F11E97f8c4BB48317F1938.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -4145,7 +4145,7 @@
   },
   {
     "address": "0x1bF77c0269e1AF595421255acd7751DcD299d14B",
-    "name": "They Don\u2019t Know",
+    "name": "They Don’t Know",
     "symbol": "DKC",
     "logoURI": "https://assets.smold.app/api/token/8453/0x1bF77c0269e1AF595421255acd7751DcD299d14B/logo-128.png",
     "chainId": 8453,
@@ -4163,7 +4163,7 @@
     "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
     "name": "Axelar",
     "symbol": "AXL",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f.jpg",
     "chainId": 8453,
     "decimals": 6
   },
@@ -4209,7 +4209,7 @@
   },
   {
     "address": "0x58f0A87Ae6BEE65E9419C01cB9a78CF7BBE77242",
-    "name": "Don\u2019t know",
+    "name": "Don’t know",
     "symbol": "DKC",
     "logoURI": "https://assets.smold.app/api/token/8453/0x58f0A87Ae6BEE65E9419C01cB9a78CF7BBE77242/logo-128.png",
     "chainId": 8453,
@@ -4267,7 +4267,7 @@
     "address": "0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415",
     "name": "Curve DAO Token",
     "symbol": "CRV",
-    "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -4283,7 +4283,7 @@
     "address": "0xC1E02884AF4A283cA25ab63C45360d220d69DA52",
     "name": "Synthetix USDC Yield",
     "symbol": "sUSDCy",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xC1E02884AF4A283cA25ab63C45360d220d69DA52/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xC1E02884AF4A283cA25ab63C45360d220d69DA52.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -4355,7 +4355,7 @@
     "address": "0xe31eE12bDFDD0573D634124611e85338e2cBF0cF",
     "name": "Staked USDz",
     "symbol": "sUSDz",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xe31eE12bDFDD0573D634124611e85338e2cBF0cF/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xe31eE12bDFDD0573D634124611e85338e2cBF0cF.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -4418,7 +4418,7 @@
     "address": "0x4e496c0256FB9D4CC7Ba2fdF931bC9CbB7731660",
     "chainId": 8453,
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/boge.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x4e496c0256FB9D4CC7Ba2fdF931bC9CbB7731660.jpg",
     "useDexscreener": true,
     "dexscreenPairAddress": "0xBF5F6359745298eE65c52A32BE5fe9FafB1B434D"
   },
@@ -4567,7 +4567,7 @@
     "address": "0xC702b80a1bEBac118cab22Ce6F2978ef59563b3F",
     "chainId": 8453,
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/rafl.png"
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xC702b80a1bEBac118cab22Ce6F2978ef59563b3F.png"
   },
   {
     "name": "Reach",
@@ -4743,7 +4743,7 @@
     "address": "0x029a3b0532871735809A51E8653d6017eF04b6Fa",
     "name": "TYBENG",
     "symbol": "TYBENG",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x029a3b0532871735809A51E8653d6017eF04b6Fa/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x029a3b0532871735809A51E8653d6017eF04b6Fa.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -4815,7 +4815,7 @@
     "address": "0x09188484e1Ab980DAeF53a9755241D759C5B7d60",
     "name": "Rigo Token",
     "symbol": "GRG",
-    "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x09188484e1Ab980DAeF53a9755241D759C5B7d60.svg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -4878,7 +4878,7 @@
     "address": "0x0FA70E156Cd3B03aC4080bfe55BD8AB50f5Bcb98",
     "name": "Youcoin",
     "symbol": "YOU",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x0FA70E156Cd3B03aC4080bfe55BD8AB50f5Bcb98/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x0FA70E156Cd3B03aC4080bfe55BD8AB50f5Bcb98.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -4934,7 +4934,7 @@
     "address": "0x122A3f185655847980639E8EdF0F0f66cd91C5fE",
     "name": "FELLA",
     "symbol": "FELLA",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x122A3f185655847980639E8EdF0F0f66cd91C5fE/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x122A3f185655847980639E8EdF0F0f66cd91C5fE.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -4966,7 +4966,7 @@
     "address": "0x13741C5dF9aB03E7Aa9Fb3Bf1f714551dD5A5F8a",
     "name": "Noggles",
     "symbol": "NOGS",
-    "logoURI": "https://ethereum-optimism.github.io/data/NOGS/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x13741C5dF9aB03E7Aa9Fb3Bf1f714551dD5A5F8a.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -4974,7 +4974,7 @@
     "address": "0x13F4196cC779275888440b3000AE533BbBbC3166",
     "name": "Alongside Crypto Market Index",
     "symbol": "AMKT",
-    "logoURI": "https://ethereum-optimism.github.io/data/AMKT/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x13F4196cC779275888440b3000AE533BbBbC3166.svg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -5126,7 +5126,7 @@
     "address": "0x1F1aA4d239002bB818536c95E9b762a1FC8484C1",
     "name": "Precipitate.AI",
     "symbol": "RAIN",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x1F1aA4d239002bB818536c95E9b762a1FC8484C1/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x1F1aA4d239002bB818536c95E9b762a1FC8484C1.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -5166,7 +5166,7 @@
     "address": "0x1db0Fc8933f545648b54A9eE4326209a9A259643",
     "name": "Zunami Token",
     "symbol": "ZUN",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x1db0Fc8933f545648b54A9eE4326209a9A259643/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x1db0Fc8933f545648b54A9eE4326209a9A259643.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -5182,7 +5182,7 @@
     "address": "0x20b048fA035D5763685D695e66aDF62c5D9F5055",
     "name": "Biochar",
     "symbol": "CHAR",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x20b048fA035D5763685D695e66aDF62c5D9F5055/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x20b048fA035D5763685D695e66aDF62c5D9F5055.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -5214,7 +5214,7 @@
     "address": "0x22DC834C3Ff3e45f484bF24B9B07b851B981900f",
     "name": "Smudge Cat",
     "symbol": "SMUDCAT",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x22DC834C3Ff3e45f484bF24B9B07b851B981900f/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x22DC834C3Ff3e45f484bF24B9B07b851B981900f.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -5372,7 +5372,7 @@
     "address": "0x2DC1cDa9186a4993bD36dE60D08787c0C382BEAD",
     "name": "Magnate Finance",
     "symbol": "MAG",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x2DC1cDa9186a4993bD36dE60D08787c0C382BEAD/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x2DC1cDa9186a4993bD36dE60D08787c0C382BEAD.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -5468,7 +5468,7 @@
     "address": "0x33ad778E6C76237d843c52d7cAfc972bB7cF8729",
     "name": "Boshi",
     "symbol": "Boshi",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x33ad778E6C76237d843c52d7cAfc972bB7cF8729/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x33ad778E6C76237d843c52d7cAfc972bB7cF8729.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -5539,7 +5539,7 @@
     "address": "0x38815A4455921667d673B4cb3d48F0383eE93400",
     "name": "pSTAKE Finance",
     "symbol": "PSTAKE",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x38815A4455921667d673B4cb3d48F0383eE93400/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x38815A4455921667d673B4cb3d48F0383eE93400.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -5642,7 +5642,7 @@
     "address": "0x3eE5e23eEE121094f1cFc0Ccc79d6C809Ebd22e5",
     "name": "Ionic",
     "symbol": "ION",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x3eE5e23eEE121094f1cFc0Ccc79d6C809Ebd22e5/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x3eE5e23eEE121094f1cFc0Ccc79d6C809Ebd22e5.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -5674,7 +5674,7 @@
     "address": "0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1",
     "name": "Balancer",
     "symbol": "BAL",
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -5762,7 +5762,7 @@
     "address": "0x455234AB787665a219125235fB01b22b512DfCaA",
     "name": "DOSE",
     "symbol": "DOSE",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x455234AB787665a219125235fB01b22b512DfCaA/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x455234AB787665a219125235fB01b22b512DfCaA.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -5808,8 +5808,8 @@
   },
   {
     "address": "0x46A8615b7B75579504f465712913C190cE7BD12c",
-    "name": "bird\u00f3n",
-    "symbol": "BIRD\u00d3N",
+    "name": "birdón",
+    "symbol": "BIRDÓN",
     "logoURI": "https://assets.smold.app/api/token/8453/0x46A8615b7B75579504f465712913C190cE7BD12c/logo-128.png",
     "chainId": 8453,
     "decimals": 18
@@ -5906,7 +5906,7 @@
     "address": "0x4F604735c1cF31399C6E711D5962b2B3E0225AD3",
     "name": "Glo Dollar",
     "symbol": "USDGLO",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x4F604735c1cF31399C6E711D5962b2B3E0225AD3/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x4F604735c1cF31399C6E711D5962b2B3E0225AD3.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -5954,7 +5954,7 @@
     "address": "0x4d25E94291FE8dcFBfA572cbB2aAa7B755087c91",
     "name": "High",
     "symbol": "HIGH",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x4d25E94291FE8dcFBfA572cbB2aAa7B755087c91/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x4d25E94291FE8dcFBfA572cbB2aAa7B755087c91.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -6106,7 +6106,7 @@
     "address": "0x576Bca23DcB6d94fF8E537D88b0d3E1bEaD444a2",
     "name": "Base Carbon Tonne",
     "symbol": "BCT",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x576Bca23DcB6d94fF8E537D88b0d3E1bEaD444a2/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x576Bca23DcB6d94fF8E537D88b0d3E1bEaD444a2.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -6338,7 +6338,7 @@
     "address": "0x64cc19A52f4D631eF5BE07947CABA14aE00c52Eb",
     "name": "Kibble",
     "symbol": "KIBBLE",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x64cc19A52f4D631eF5BE07947CABA14aE00c52Eb/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x64cc19A52f4D631eF5BE07947CABA14aE00c52Eb.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -6362,7 +6362,7 @@
     "address": "0x6653dD4B92a0e5Bf8ae570A98906d9D6fD2eEc09",
     "name": "RocketSwap",
     "symbol": "RCKT",
-    "logoURI": "https://tokens.1inch.io/0x6653dd4b92a0e5bf8ae570a98906d9d6fd2eec09.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x6653dD4B92a0e5Bf8ae570A98906d9D6fD2eEc09.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -6522,7 +6522,7 @@
     "address": "0x6e2c81b6c2C0e02360F00a0dA694e489acB0b05e",
     "name": "Reflect",
     "symbol": "RFL",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x6e2c81b6c2C0e02360F00a0dA694e489acB0b05e/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x6e2c81b6c2C0e02360F00a0dA694e489acB0b05e.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -6530,7 +6530,7 @@
     "address": "0x6ef3864876424ADE834a7C1BE8C0CF3d71208B84",
     "name": "Zunami USD",
     "symbol": "zunUSD",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x6ef3864876424ADE834a7C1BE8C0CF3d71208B84/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x6ef3864876424ADE834a7C1BE8C0CF3d71208B84.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -6538,7 +6538,7 @@
     "address": "0x703D57164CA270b0B330A87FD159CfEF1490c0a5",
     "name": "Rai.Finance",
     "symbol": "SOFI",
-    "logoURI": "https://ethereum-optimism.github.io/data/SOFI/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x703D57164CA270b0B330A87FD159CfEF1490c0a5.svg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -6634,7 +6634,7 @@
     "address": "0x7466dE7bb8B5E41Ee572f4167de6be782a7fA75d",
     "name": "WAGMI",
     "symbol": "WAGMI",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x7466dE7bb8B5E41Ee572f4167de6be782a7fA75d/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x7466dE7bb8B5E41Ee572f4167de6be782a7fA75d.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -6690,7 +6690,7 @@
     "address": "0x76734B57dFe834F102fB61E1eBF844Adf8DD931e",
     "name": "weirdo",
     "symbol": "weirdo",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x76734B57dFe834F102fB61E1eBF844Adf8DD931e/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x76734B57dFe834F102fB61E1eBF844Adf8DD931e.png",
     "chainId": 8453,
     "decimals": 8
   },
@@ -6698,7 +6698,7 @@
     "address": "0x768BE13e1680b5ebE0024C42c896E3dB59ec0149",
     "name": "SKI MASK DOG",
     "symbol": "SKI",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x768BE13e1680b5ebE0024C42c896E3dB59ec0149/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x768BE13e1680b5ebE0024C42c896E3dB59ec0149.png",
     "chainId": 8453,
     "decimals": 9
   },
@@ -6882,7 +6882,7 @@
     "address": "0x80F6BcedD3d4fa1035285affA30e38f464Db3895",
     "name": "BetBase",
     "symbol": "BET",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x80F6BcedD3d4fa1035285affA30e38f464Db3895/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x80F6BcedD3d4fa1035285affA30e38f464Db3895.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7034,7 +7034,7 @@
     "address": "0x8E5E9DF4F0EA39aE5270e79bbABFCc34203A3470",
     "name": "Revenue Generating USD",
     "symbol": "rgUSD",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x8E5E9DF4F0EA39aE5270e79bbABFCc34203A3470/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x8E5E9DF4F0EA39aE5270e79bbABFCc34203A3470.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7042,7 +7042,7 @@
     "address": "0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D",
     "name": "MBS",
     "symbol": "MBS",
-    "logoURI": "https://ethereum-optimism.github.io/data/MBS/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7050,7 +7050,7 @@
     "address": "0x8Fe815417913a93Ea99049FC0718ee1647A2a07c",
     "name": "XSwap",
     "symbol": "XSWAP",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x8Fe815417913a93Ea99049FC0718ee1647A2a07c/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x8Fe815417913a93Ea99049FC0718ee1647A2a07c.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7138,7 +7138,7 @@
     "address": "0x8f019931375454Fe4EE353427eB94E2E0C9e0a8C",
     "name": "KOMPETE Token",
     "symbol": "KOMPETE",
-    "logoURI": "https://ethereum-optimism.github.io/data/KOMPETE/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x8f019931375454Fe4EE353427eB94E2E0C9e0a8C.svg",
     "chainId": 8453,
     "decimals": 10
   },
@@ -7226,7 +7226,7 @@
     "address": "0x96419929d7949D6A801A6909c145C8EEf6A40431",
     "name": "Spectral Token",
     "symbol": "SPEC",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x96419929d7949D6A801A6909c145C8EEf6A40431/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x96419929d7949D6A801A6909c145C8EEf6A40431.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7266,7 +7266,7 @@
     "address": "0x97c806e7665d3AFd84A8Fe1837921403D59F3Dcc",
     "name": "Artificial Liquid Intelligence Token",
     "symbol": "ALI",
-    "logoURI": "https://assets.coingecko.com/coins/images/22062/large/alethea-logo-transparent-colored.png?1642748848",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x97c806e7665d3AFd84A8Fe1837921403D59F3Dcc.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7282,7 +7282,7 @@
     "address": "0x99aC4484e8a1dbd6A185380B3A811913Ac884D87",
     "name": "Savings Dai",
     "symbol": "sDAI",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x99aC4484e8a1dbd6A185380B3A811913Ac884D87/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x99aC4484e8a1dbd6A185380B3A811913Ac884D87.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7298,7 +7298,7 @@
     "address": "0x9A6d24c02eC35ad970287eE8296D4D6552a31DbE",
     "name": "Open Ecosystem Token",
     "symbol": "OPN",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x9A6d24c02eC35ad970287eE8296D4D6552a31DbE/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x9A6d24c02eC35ad970287eE8296D4D6552a31DbE.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7330,7 +7330,7 @@
     "address": "0x9D8a9aEc7aDcb2b203D285b9c6F91ABbcDF1D7e4",
     "name": "Dolp",
     "symbol": "DOLP",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x9D8a9aEc7aDcb2b203D285b9c6F91ABbcDF1D7e4/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x9D8a9aEc7aDcb2b203D285b9c6F91ABbcDF1D7e4.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7346,7 +7346,7 @@
     "address": "0x9EaF8C1E34F05a589EDa6BAfdF391Cf6Ad3CB239",
     "name": "yearn.finance",
     "symbol": "YFI",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x9EaF8C1E34F05a589EDa6BAfdF391Cf6Ad3CB239/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x9EaF8C1E34F05a589EDa6BAfdF391Cf6Ad3CB239.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7538,7 +7538,7 @@
     "address": "0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
     "name": "Wormhole Token",
     "symbol": "W",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7554,7 +7554,7 @@
     "address": "0xB59c8912c83157a955f9D715E556257F432C35D7",
     "name": "Truflation",
     "symbol": "TRUF",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xB59c8912c83157a955f9D715E556257F432C35D7/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xB59c8912c83157a955f9D715E556257F432C35D7.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7594,7 +7594,7 @@
     "address": "0xBB22Ff867F8Ca3D5F2251B4084F6Ec86D4666E14",
     "name": "Cryptex",
     "symbol": "CTX",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xBB22Ff867F8Ca3D5F2251B4084F6Ec86D4666E14/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xBB22Ff867F8Ca3D5F2251B4084F6Ec86D4666E14.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7633,7 +7633,7 @@
     "address": "0xBa5B9B2D2d06a9021EB3190ea5Fb0e02160839A4",
     "name": "Sendit",
     "symbol": "Sendit",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xBa5B9B2D2d06a9021EB3190ea5Fb0e02160839A4/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xBa5B9B2D2d06a9021EB3190ea5Fb0e02160839A4.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7689,7 +7689,7 @@
     "address": "0xC227717ef4Ae4D982E14789eB33bA942243c3FEe",
     "name": "Mozaic Token",
     "symbol": "MOZ",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xC227717ef4Ae4D982E14789eB33bA942243c3FEe/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xC227717ef4Ae4D982E14789eB33bA942243c3FEe.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7729,7 +7729,7 @@
     "address": "0xC48E605c7b722a57277e087a6170B9E227e5AC0A",
     "name": "OmniCat",
     "symbol": "OMNI",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xC48E605c7b722a57277e087a6170B9E227e5AC0A/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xC48E605c7b722a57277e087a6170B9E227e5AC0A.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7761,7 +7761,7 @@
     "address": "0xD1412D909F67B8Db7505DdFCF26CF2303f4B1bB4",
     "name": "Riku",
     "symbol": "RIKU",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xD1412D909F67B8Db7505DdFCF26CF2303f4B1bB4/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xD1412D909F67B8Db7505DdFCF26CF2303f4B1bB4.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7833,7 +7833,7 @@
     "address": "0xDa761A290e01c69325D12D82AC402E5a73D62E81",
     "name": "Base Pro Shops",
     "symbol": "BPS",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xDa761A290e01c69325D12D82AC402E5a73D62E81/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xDa761A290e01c69325D12D82AC402E5a73D62E81.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7936,7 +7936,7 @@
     "address": "0xEFb97aaF77993922aC4be4Da8Fbc9A2425322677",
     "name": "Web 3 Dollar",
     "symbol": "USD3",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xEFb97aaF77993922aC4be4Da8Fbc9A2425322677/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xEFb97aaF77993922aC4be4Da8Fbc9A2425322677.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -7968,7 +7968,7 @@
     "address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
     "name": "Frax Ether",
     "symbol": "frxETH",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xEcc68d0451E20292406967Fe7C04280E5238Ac7D/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xEcc68d0451E20292406967Fe7C04280E5238Ac7D.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -8176,7 +8176,7 @@
     "address": "0xa4220a2B0Cb10BF5FDC3B8c3D9E13728f5E7ca56",
     "name": "Mochi",
     "symbol": "MOCHI",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xa4220a2B0Cb10BF5FDC3B8c3D9E13728f5E7ca56/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xa4220a2B0Cb10BF5FDC3B8c3D9E13728f5E7ca56.png",
     "chainId": 8453,
     "decimals": 8
   },
@@ -8328,7 +8328,7 @@
     "address": "0xb95fB324b8A2fAF8ec4f76e3dF46C718402736e2",
     "name": "Flat Money",
     "symbol": "UNIT",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xb95fB324b8A2fAF8ec4f76e3dF46C718402736e2/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xb95fB324b8A2fAF8ec4f76e3dF46C718402736e2.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -8344,7 +8344,7 @@
     "address": "0xbFd5206962267c7b4b4A8B3D76AC2E1b2A5c4d5e",
     "name": "Osaka Protocol",
     "symbol": "OSAK",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xbFd5206962267c7b4b4A8B3D76AC2E1b2A5c4d5e/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xbFd5206962267c7b4b4A8B3D76AC2E1b2A5c4d5e.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -8352,7 +8352,7 @@
     "address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
     "name": "OX Coin",
     "symbol": "OX",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -8376,7 +8376,7 @@
     "address": "0xbd2DBb8eceA9743CA5B16423b4eAa26bDcfE5eD2",
     "name": "Synth Token",
     "symbol": "SYNTH",
-    "logoURI": "https://tokens.1inch.io/0xbd2dbb8ecea9743ca5b16423b4eaa26bdcfe5ed2.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xbd2DBb8eceA9743CA5B16423b4eAa26bDcfE5eD2.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -8424,7 +8424,7 @@
     "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
     "name": "NFTEarthOFT",
     "symbol": "NFTE",
-    "logoURI": "https://ethereum-optimism.github.io/data/NFTE/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xc2106ca72996e49bBADcB836eeC52B765977fd20.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -8463,7 +8463,7 @@
     "address": "0xc7Edf7B7b3667a06992508e7B156eff794a9e1c8",
     "name": "XPRT native asset",
     "symbol": "XPRT",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xc7Edf7B7b3667a06992508e7B156eff794a9e1c8/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xc7Edf7B7b3667a06992508e7B156eff794a9e1c8.png",
     "chainId": 8453,
     "decimals": 6
   },
@@ -8477,7 +8477,7 @@
   },
   {
     "address": "0xc9b6eF062Fab19D3F1eABc36b1f2E852AF1Acd18",
-    "name": "Brett\u2019s cat",
+    "name": "Brett’s cat",
     "symbol": "BALT",
     "logoURI": "https://assets.smold.app/api/token/8453/0xc9b6eF062Fab19D3F1eABc36b1f2E852AF1Acd18/logo-128.png",
     "chainId": 8453,
@@ -8503,7 +8503,7 @@
     "address": "0xcacf1ca03983CE6c7E235fb20C70aCC70ed13509",
     "name": "AstroPepeX",
     "symbol": "APX",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xcacf1ca03983CE6c7E235fb20C70aCC70ed13509/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xcacf1ca03983CE6c7E235fb20C70aCC70ed13509.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -8519,7 +8519,7 @@
     "address": "0xcdE172dc5ffC46D228838446c57C1227e0B82049",
     "name": "Boomer",
     "symbol": "BOOMER",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xcdE172dc5ffC46D228838446c57C1227e0B82049/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xcdE172dc5ffC46D228838446c57C1227e0B82049.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -8647,7 +8647,7 @@
     "address": "0xdb6e0e5094A25a052aB6845a9f1e486B9A9B3DdE",
     "name": "Okayeg",
     "symbol": "OKAYEG",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xdb6e0e5094A25a052aB6845a9f1e486B9A9B3DdE/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xdb6e0e5094A25a052aB6845a9f1e486B9A9B3DdE.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -8671,7 +8671,7 @@
     "address": "0xe0023E73aab4fE9a22f059a9d27E857E027eE3dc",
     "name": "Rwax Token",
     "symbol": "RWAX",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xe0023E73aab4fE9a22f059a9d27E857E027eE3dc/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xe0023E73aab4fE9a22f059a9d27E857E027eE3dc.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -8695,7 +8695,7 @@
     "address": "0xe1f9ac62a2f34881f6Fe0F84322dE9d7024C2b8E",
     "name": "Mochi",
     "symbol": "MOCHI",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xe1f9ac62a2f34881f6Fe0F84322dE9d7024C2b8E/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xe1f9ac62a2f34881f6Fe0F84322dE9d7024C2b8E.jpg",
     "chainId": 8453,
     "decimals": 8
   },
@@ -8703,7 +8703,7 @@
     "address": "0xe2c86869216aC578bd62a4b8313770d9EE359A05",
     "name": "EMAIL Token",
     "symbol": "EMT",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xe2c86869216aC578bd62a4b8313770d9EE359A05/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xe2c86869216aC578bd62a4b8313770d9EE359A05.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -8711,7 +8711,7 @@
     "address": "0xe2dCA969624795985F2f083BcD0b674337ba130a",
     "name": "Saakuru",
     "symbol": "SKR",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xe2dCA969624795985F2f083BcD0b674337ba130a/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xe2dCA969624795985F2f083BcD0b674337ba130a.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -8759,7 +8759,7 @@
     "address": "0xeA930c80d8eac45993d127055E718555e7155fB1",
     "name": "Infinite",
     "symbol": "INF",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xeA930c80d8eac45993d127055E718555e7155fB1/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xeA930c80d8eac45993d127055E718555e7155fB1.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -8791,7 +8791,7 @@
     "address": "0xebfF2db643Cf955247339c8c6bCD8406308ca437",
     "name": "ChompCoin",
     "symbol": "CHOMP",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xebfF2db643Cf955247339c8c6bCD8406308ca437/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xebfF2db643Cf955247339c8c6bCD8406308ca437.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -8799,7 +8799,7 @@
     "address": "0xed1779845520339693CDBffec49a74246E7D671b",
     "name": "SAMURAI",
     "symbol": "SAM",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xed1779845520339693CDBffec49a74246E7D671b/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xed1779845520339693CDBffec49a74246E7D671b.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -8951,7 +8951,7 @@
     "address": "0x28fe69Ff6864C1C218878BDCA01482D36B9D57b1",
     "name": "Kyber Network Crystal v2",
     "symbol": "KNC",
-    "logoURI": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x28fe69Ff6864C1C218878BDCA01482D36B9D57b1.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -8998,7 +8998,7 @@
     "address": "0x6059d0ed9368c36941514d2864fD114a84853d5a",
     "name": "FOAM Token",
     "symbol": "FOAM",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x6059d0ed9368c36941514d2864fD114a84853d5a/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x6059d0ed9368c36941514d2864fD114a84853d5a.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9030,7 +9030,7 @@
     "address": "0xA7d68d155d17cB30e311367c2Ef1E82aB6022b67",
     "name": "BTRST",
     "symbol": "BTRST",
-    "logoURI": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xA7d68d155d17cB30e311367c2Ef1E82aB6022b67.svg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9086,7 +9086,7 @@
     "address": "0xd0D1e44FC9aDAEB732F73fFC2429CD1dB9cD4529",
     "name": "Sipher Token",
     "symbol": "SIPHER",
-    "logoURI": "https://ethereum-optimism.github.io/data/SIPHER/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xd0D1e44FC9aDAEB732F73fFC2429CD1dB9cD4529.svg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9144,7 +9144,7 @@
     "address": "0x17d2628D30F8e9E966c9Ba831c9B9b01ea8Ea75C",
     "name": "ISKRA TOKEN",
     "symbol": "ISK",
-    "logoURI": "https://ethereum-optimism.github.io/data/ISK/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x17d2628D30F8e9E966c9Ba831c9B9b01ea8Ea75C.svg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9166,7 +9166,7 @@
     "address": "0x1C9Fa01e87487712706Fb469a13bEb234262C867",
     "name": "ARPA Token",
     "symbol": "ARPA",
-    "logoURI": "https://ethereum-optimism.github.io/data/ARPA/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x1C9Fa01e87487712706Fb469a13bEb234262C867.svg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9195,7 +9195,7 @@
     "address": "0x1f73EAf55d696BFFA9b0EA16fa987B93b0f4d302",
     "name": "Rocket Pool Protocol",
     "symbol": "RPL",
-    "logoURI": "https://ethereum-optimism.github.io/data/RPL/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x1f73EAf55d696BFFA9b0EA16fa987B93b0f4d302.svg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9217,7 +9217,7 @@
     "address": "0x235226d2050C001FE78dED104364F9C2eB852E42",
     "name": "Infected",
     "symbol": "INFC",
-    "logoURI": "https://ethereum-optimism.github.io/data/INFC/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x235226d2050C001FE78dED104364F9C2eB852E42.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9252,7 +9252,7 @@
   {
     "address": "0x2FA824bB2e06D6caC7DBAb00bE37Dc0F3D440E8b",
     "name": "One Cent Coin",
-    "symbol": "\ud83c\uddfa\ud83c\uddf8",
+    "symbol": "🇺🇸",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9267,7 +9267,7 @@
     "address": "0x30136B90e532141FeD006c61105cff3668b5c774",
     "name": "BlueSwap",
     "symbol": "BLUE",
-    "logoURI": "https://ethereum-optimism.github.io/data/BLUE/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x30136B90e532141FeD006c61105cff3668b5c774.svg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9310,7 +9310,7 @@
     "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
     "name": "0x Protocol Token",
     "symbol": "ZRX",
-    "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9318,7 +9318,7 @@
     "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
     "name": "HANePlatform",
     "symbol": "HANeP",
-    "logoURI": "https://ethereum-optimism.github.io/data/HANeP/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x3e7eF8f50246f725885102E8238CBba33F276747.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9340,7 +9340,7 @@
     "address": "0x4c94DE27c94962Dba6Ebb77924Ac54189db75EFA",
     "name": "Wrapped eETH",
     "symbol": "weETH",
-    "logoURI": "https://ethereum-optimism.github.io/data/weETH/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x4c94DE27c94962Dba6Ebb77924Ac54189db75EFA.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9411,13 +9411,13 @@
     "address": "0x7002458B1DF59EccB57387bC79fFc7C29E22e6f7",
     "name": "OriginToken",
     "symbol": "OGN",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x7002458B1DF59EccB57387bC79fFc7C29E22e6f7/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x7002458B1DF59EccB57387bC79fFc7C29E22e6f7.png",
     "chainId": 8453,
     "decimals": 18
   },
   {
     "address": "0x7422f030958Edf9884cE9c46a211029E03eF6da7",
-    "name": "Pepe\u2019s Dog",
+    "name": "Pepe’s Dog",
     "symbol": "POPO",
     "chainId": 8453,
     "decimals": 18
@@ -9426,7 +9426,7 @@
     "address": "0x76ff2AB6b34142421F44A68cC8Dd08f45F9Ee2F2",
     "name": "PIP",
     "symbol": "PIP",
-    "logoURI": "https://ethereum-optimism.github.io/data/PIP/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x76ff2AB6b34142421F44A68cC8Dd08f45F9Ee2F2.svg",
     "chainId": 8453,
     "decimals": 9
   },
@@ -9448,7 +9448,7 @@
     "address": "0x7C34073C56285944F9A5384137186abFAe1C3bf0",
     "name": "Plague",
     "symbol": "PLG",
-    "logoURI": "https://ethereum-optimism.github.io/data/PLG/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x7C34073C56285944F9A5384137186abFAe1C3bf0.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9456,7 +9456,7 @@
     "address": "0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA",
     "name": "SushiToken",
     "symbol": "SUSHI",
-    "logoURI": "https://ethereum-optimism.github.io/data/SUSHI/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9471,7 +9471,7 @@
     "address": "0x85267fBC6e1e1563bB9247336F05D9220eA99f52",
     "name": "Empower Token",
     "symbol": "MPWR",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x85267fBC6e1e1563bB9247336F05D9220eA99f52/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x85267fBC6e1e1563bB9247336F05D9220eA99f52.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9486,7 +9486,7 @@
     "address": "0x91e1D2B9b0D9AfCF1F024dF09A68799fB200bc63",
     "name": "Prime",
     "symbol": "D2D",
-    "logoURI": "https://ethereum-optimism.github.io/data/D2D/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x91e1D2B9b0D9AfCF1F024dF09A68799fB200bc63.svg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9508,7 +9508,7 @@
     "address": "0x998b3Fd0998bffF66D28aB03DfE417FC3B884188",
     "name": "ARIANEE",
     "symbol": "ARIA20",
-    "logoURI": "https://ethereum-optimism.github.io/data/ARIA20/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x998b3Fd0998bffF66D28aB03DfE417FC3B884188.svg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9523,7 +9523,7 @@
     "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
     "name": "Compound",
     "symbol": "COMP",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x9e1028F5F1D5eDE59748FFceE5532509976840E0/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x9e1028F5F1D5eDE59748FFceE5532509976840E0.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9531,7 +9531,7 @@
     "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
     "name": "HanChain",
     "symbol": "HAN",
-    "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9539,7 +9539,7 @@
     "address": "0xA81a52B4dda010896cDd386C7fBdc5CDc835ba23",
     "name": "Trace Token",
     "symbol": "TRAC",
-    "logoURI": "https://ethereum-optimism.github.io/data/TRAC/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xA81a52B4dda010896cDd386C7fBdc5CDc835ba23.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9581,7 +9581,7 @@
   {
     "address": "0xE0742c2d2Bdbb3c138Ce81Bc5589DC07865f0a49",
     "name": "LikeButton.eth",
-    "symbol": "\u2764\ufe0f",
+    "symbol": "❤️",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9603,7 +9603,7 @@
     "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
     "name": "iFARM",
     "symbol": "iFARM",
-    "logoURI": "https://ethereum-optimism.github.io/data/IFARM/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea.jpg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9646,7 +9646,7 @@
     "address": "0xb008BDCF9CdFf9da684a190941dC3dCa8C2Cdd44",
     "name": "Flux",
     "symbol": "FLUX",
-    "logoURI": "https://ethereum-optimism.github.io/data/FLUX/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xb008BDCF9CdFf9da684a190941dC3dCa8C2Cdd44.svg",
     "chainId": 8453,
     "decimals": 8
   },
@@ -9668,7 +9668,7 @@
     "address": "0xc5fecC3a29Fb57B5024eEc8a2239d4621e111CBE",
     "name": "1INCH Token",
     "symbol": "1INCH",
-    "logoURI": "https://ethereum-optimism.github.io/data/1INCH/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xc5fecC3a29Fb57B5024eEc8a2239d4621e111CBE.svg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9676,7 +9676,7 @@
     "address": "0xcC2a24405480242f8EE5d9b0aE27861D801d7FFA",
     "name": "OpenX Optimism",
     "symbol": "wOpenX",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xcC2a24405480242f8EE5d9b0aE27861D801d7FFA/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xcC2a24405480242f8EE5d9b0aE27861D801d7FFA.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9691,7 +9691,7 @@
     "address": "0xddB293BB5C5258F7484A94a0fBd5c8B2F6E4e376",
     "name": "Brickken",
     "symbol": "BKN",
-    "logoURI": "https://ethereum-optimism.github.io/data/BKN/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xddB293BB5C5258F7484A94a0fBd5c8B2F6E4e376.svg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9699,7 +9699,7 @@
     "address": "0xde0D2ee637D3e4Fd02bc99508CA5e94dd7055766",
     "name": "Jarvis Reward Token",
     "symbol": "JRT",
-    "logoURI": "https://ethereum-optimism.github.io/data/JRT/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xde0D2ee637D3e4Fd02bc99508CA5e94dd7055766.svg",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9744,7 +9744,7 @@
     "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
     "chainId": 8453,
     "decimals": 6,
-    "logoURI": "https://tokens.pancakeswap.finance/images/symbol/usdt.png"
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2.png"
   },
   {
     "name": "Wrapped eETH",
@@ -9752,7 +9752,7 @@
     "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
     "chainId": 8453,
     "decimals": 18,
-    "logoURI": "https://tokens.pancakeswap.finance/images/base/0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A.png"
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A.png"
   },
   {
     "address": "0x16A004065dfb11276DcB29Dc03fb8A85f9A43C6e",
@@ -9803,7 +9803,7 @@
     "address": "0x0645bC5cDff2376089323Ac20Df4119e48e4BCc4",
     "name": "JOJO",
     "symbol": "JOJO",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x0645bC5cDff2376089323Ac20Df4119e48e4BCc4/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x0645bC5cDff2376089323Ac20Df4119e48e4BCc4.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9811,7 +9811,7 @@
     "address": "0x0D5d2450F19Ffa71B16a95b3fAbef52786238828",
     "name": "XtremeGPT",
     "symbol": "XTGPT",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x0D5d2450F19Ffa71B16a95b3fAbef52786238828/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x0D5d2450F19Ffa71B16a95b3fAbef52786238828.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9819,7 +9819,7 @@
     "address": "0x1Bc71130A0e39942a7658878169764Bbd8A45993",
     "name": "KelpDao Restaked ETH",
     "symbol": "rsETH",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x1Bc71130A0e39942a7658878169764Bbd8A45993/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x1Bc71130A0e39942a7658878169764Bbd8A45993.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9827,7 +9827,7 @@
     "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
     "name": "Sumerian ETH",
     "symbol": "suETH",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9835,7 +9835,7 @@
     "address": "0x21f8c472D1702919aF0AF57a9E2926f2c1FB67C5",
     "name": "ToastAI",
     "symbol": "TOAST",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x21f8c472D1702919aF0AF57a9E2926f2c1FB67C5/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x21f8c472D1702919aF0AF57a9E2926f2c1FB67C5.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9843,7 +9843,7 @@
     "address": "0x2C8D2FC58B80aCb3b307C165af8F3eE296e6A271",
     "name": "pHAM (BASE)",
     "symbol": "pHAM",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x2C8D2FC58B80aCb3b307C165af8F3eE296e6A271/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x2C8D2FC58B80aCb3b307C165af8F3eE296e6A271.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9851,7 +9851,7 @@
     "address": "0x344C796cc2474e4b779D0e81765AFB91D7741a42",
     "name": "GARFELDO",
     "symbol": "LASAGNA",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x344C796cc2474e4b779D0e81765AFB91D7741a42/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x344C796cc2474e4b779D0e81765AFB91D7741a42.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9859,7 +9859,7 @@
     "address": "0x36be1d329444aeF5D28df3662Ec5B4F965Cd93E9",
     "name": "Chia Warped XCH",
     "symbol": "wXCH",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x36be1d329444aeF5D28df3662Ec5B4F965Cd93E9/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x36be1d329444aeF5D28df3662Ec5B4F965Cd93E9.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9867,7 +9867,7 @@
     "address": "0x3Dd79d6BD927615787Cc95F2c7A77C9aC1AF26F4",
     "name": "@MorphexBMX Pod (BASE)",
     "symbol": "pwBLT",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x3Dd79d6BD927615787Cc95F2c7A77C9aC1AF26F4/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x3Dd79d6BD927615787Cc95F2c7A77C9aC1AF26F4.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9875,7 +9875,7 @@
     "address": "0x4154550f4Db74Dc38d1FE98e1F3F28ed6daD627d",
     "name": "Jarvis Synthetic Euro",
     "symbol": "jEUR",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x4154550f4Db74Dc38d1FE98e1F3F28ed6daD627d/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x4154550f4Db74Dc38d1FE98e1F3F28ed6daD627d.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9883,7 +9883,7 @@
     "address": "0x416bd43Bc76D496ff49923c20eCaf86b52Ab078d",
     "name": "Harbor Token",
     "symbol": "HBR",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x416bd43Bc76D496ff49923c20eCaf86b52Ab078d/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x416bd43Bc76D496ff49923c20eCaf86b52Ab078d.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9891,7 +9891,7 @@
     "address": "0x59525b9b23ADc475EF91d98dAe06B568BA574Ce5",
     "name": "Flat Money Points",
     "symbol": "FMP",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x59525b9b23ADc475EF91d98dAe06B568BA574Ce5/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x59525b9b23ADc475EF91d98dAe06B568BA574Ce5.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9899,7 +9899,7 @@
     "address": "0x5C57A7A56369a8CC4542C95a5d130E787E769cc2",
     "name": "BlackRock Inu",
     "symbol": "BRRR",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x5C57A7A56369a8CC4542C95a5d130E787E769cc2/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x5C57A7A56369a8CC4542C95a5d130E787E769cc2.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9907,7 +9907,7 @@
     "address": "0x74235c64f806341C14bF2be0887EEcd55daE955E",
     "name": "BASED",
     "symbol": "BASED",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x74235c64f806341C14bF2be0887EEcd55daE955E/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x74235c64f806341C14bF2be0887EEcd55daE955E.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9915,7 +9915,7 @@
     "address": "0x749D57006A1FF4F7ff8Cd0a238525B08D85eCE33",
     "name": "BASED CLOWN",
     "symbol": "BLOWN",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x749D57006A1FF4F7ff8Cd0a238525B08D85eCE33/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x749D57006A1FF4F7ff8Cd0a238525B08D85eCE33.png",
     "chainId": 8453,
     "decimals": 7
   },
@@ -9923,7 +9923,7 @@
     "address": "0x7d95009cC9B47548203362B98347090F70f8C7C2",
     "name": "Otter Space",
     "symbol": "OTTERSPACE",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x7d95009cC9B47548203362B98347090F70f8C7C2/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x7d95009cC9B47548203362B98347090F70f8C7C2.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9931,7 +9931,7 @@
     "address": "0x806041B6473DA60abbe1b256d9A2749A151be6C6",
     "name": "Tensorplex Staked TAO",
     "symbol": "stTAO",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x806041B6473DA60abbe1b256d9A2749A151be6C6/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x806041B6473DA60abbe1b256d9A2749A151be6C6.png",
     "chainId": 8453,
     "decimals": 9
   },
@@ -9939,7 +9939,7 @@
     "address": "0x877935876F1b0Ac524d557d31fD4654233Db4524",
     "name": "Synthereum USDC-jEUR 120% Vault",
     "symbol": "USDC-jEUR-120-vLP",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x877935876F1b0Ac524d557d31fD4654233Db4524/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x877935876F1b0Ac524d557d31fD4654233Db4524.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9947,7 +9947,7 @@
     "address": "0x9d36F8f62347538440a212e9162f534f797542df",
     "name": "Satoshi",
     "symbol": "SATS",
-    "logoURI": "https://assets.smold.app/api/token/8453/0x9d36F8f62347538440a212e9162f534f797542df/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x9d36F8f62347538440a212e9162f534f797542df.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9955,7 +9955,7 @@
     "address": "0xEDfa23602D0EC14714057867A78d01e94176BEA0",
     "name": "rsETHWrapper",
     "symbol": "wrsETH",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xEDfa23602D0EC14714057867A78d01e94176BEA0/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xEDfa23602D0EC14714057867A78d01e94176BEA0.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9963,7 +9963,7 @@
     "address": "0xcd1Fa2ca3f678906248170A13360B73B60678F4F",
     "name": "Based Degens Club",
     "symbol": "$BDC",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xcd1Fa2ca3f678906248170A13360B73B60678F4F/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xcd1Fa2ca3f678906248170A13360B73B60678F4F.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9971,7 +9971,7 @@
     "address": "0xd722E55C1d9D9fA0021A5215Cbb904b92B3dC5d4",
     "name": "Radiant",
     "symbol": "RDNT",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xd722E55C1d9D9fA0021A5215Cbb904b92B3dC5d4/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xd722E55C1d9D9fA0021A5215Cbb904b92B3dC5d4.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9979,7 +9979,7 @@
     "address": "0xd75e916216087DA1868f6CEeCE7d1924e6c844df",
     "name": "joi",
     "symbol": "joi",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xd75e916216087DA1868f6CEeCE7d1924e6c844df/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xd75e916216087DA1868f6CEeCE7d1924e6c844df.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -9987,7 +9987,7 @@
     "address": "0xe54b0C7dad72fb102ADE2b1B9F4EEce69408Ab36",
     "name": "Helios Blended Pool Token",
     "symbol": "HLSp",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xe54b0C7dad72fb102ADE2b1B9F4EEce69408Ab36/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xe54b0C7dad72fb102ADE2b1B9F4EEce69408Ab36.png",
     "chainId": 8453,
     "decimals": 6
   },
@@ -9995,7 +9995,7 @@
     "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
     "name": "Sumerian BTC",
     "symbol": "suBTC",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xe85411C030fB32A9D8b14Bbbc6CB19417391F711/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xe85411C030fB32A9D8b14Bbbc6CB19417391F711.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -10003,7 +10003,7 @@
     "address": "0xe932099eC1e79246f4655E2c17266f745F20E767",
     "name": "Nunu is Cat",
     "symbol": "NUNU",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xe932099eC1e79246f4655E2c17266f745F20E767/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xe932099eC1e79246f4655E2c17266f745F20E767.png",
     "chainId": 8453,
     "decimals": 7
   },
@@ -10011,7 +10011,7 @@
     "address": "0xeff2A458E464b07088bDB441C21A42AB4b61e07E",
     "name": "Paragons DAO Token",
     "symbol": "PDT",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xeff2A458E464b07088bDB441C21A42AB4b61e07E/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xeff2A458E464b07088bDB441C21A42AB4b61e07E.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -10019,7 +10019,7 @@
     "address": "0xfCdcA461826B3b28B869300781Ee34549309d9BF",
     "name": "Bang",
     "symbol": "BANG",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xfCdcA461826B3b28B869300781Ee34549309d9BF/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xfCdcA461826B3b28B869300781Ee34549309d9BF.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -10027,7 +10027,7 @@
     "address": "0xfe5B10F053871e66a319a57a16CF4e709f51367F",
     "name": "OVERPOWERED",
     "symbol": "OVERPOWERED",
-    "logoURI": "https://assets.smold.app/api/token/8453/0xfe5B10F053871e66a319a57a16CF4e709f51367F/logo-128.png",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0xfe5B10F053871e66a319a57a16CF4e709f51367F.png",
     "chainId": 8453,
     "decimals": 18
   },
@@ -10035,7 +10035,7 @@
     "address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
     "chainId": 8453,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
     "name": "Axelar Wrapped DAI",
     "symbol": "axlDAI"
   },
@@ -10043,7 +10043,7 @@
     "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
     "chainId": 8453,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2.jpg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2.jpg",
     "name": "Balancer",
     "symbol": "BAL"
   },
@@ -10051,7 +10051,7 @@
     "address": "0x09DeB3CF353186E7A84aBfD7434BF643f77eB686",
     "chainId": 8453,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x09DeB3CF353186E7A84aBfD7434BF643f77eB686.jpg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x09DeB3CF353186E7A84aBfD7434BF643f77eB686.jpg",
     "name": "BASE BOT",
     "symbol": "BOT"
   },
@@ -10059,7 +10059,7 @@
     "address": "0x2CcbEcc47D83eE80e27fd09c8e757B82F1fFad4C",
     "chainId": 8453,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x2CcbEcc47D83eE80e27fd09c8e757B82F1fFad4C.jpg",
+    "logoURI": "https://raw.githubusercontent.com/Koan-Protocol/koan-assets/main/lists/tokenLists/logos/token/base/0x2CcbEcc47D83eE80e27fd09c8e757B82F1fFad4C.jpg",
     "name": "Base Balloons",
     "symbol": "NANG"
   },
