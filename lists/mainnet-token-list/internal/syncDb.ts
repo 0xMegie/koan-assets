@@ -5,45 +5,6 @@ import "dotenv/config";
 import { PrismaClient } from "@prisma/client";
 import { isAddress } from "@ethersproject/address";
 
-// async function syncDB() {
-//   const client = new PrismaClient();
-
-//   const dir = path.join(__dirname, "../tokens/");
-//   const files = await fs.promises.readdir(dir);
-//   // console logs paths "base-sepolia.json",  etc in an array
-//   console.log("this are files", files);
-
-//   for (const file of files) {
-//     console.log("Syncing file check if files exists", file);
-//     let list: TokenList;
-//     try {
-//       list = TokenList.parse(
-//         //read file items
-//         JSON.parse(fs.readFileSync(path.join(dir, file), "utf-8")),
-//       );
-//       console.log("this is inner list", dir);
-//       console.log("this is inner list", list);
-
-//       for (const listItem of list) {
-//         await (async (listItem) => {
-//           if (!isAddress(listItem.address)) {
-//             throw new Error(`Invalid address: ${listItem.address}`);
-//           }
-
-//           const tokenId = `${listItem.chainId}:${listItem.address.toLowerCase()}`;
-//           console.log(tokenId);
-//         })(listItem).catch((error) => {
-//           console.error("Error while syncing list item:", listItem, error);
-//         });
-//       }
-
-//     } catch (e) {
-//       console.log("Failed to read", path, e);
-//       return;
-//     }
-//   }
-// }
-
 syncDB();
 
 async function syncDB() {
@@ -102,7 +63,7 @@ async function syncListItem(client: PrismaClient, listItem: TokenListItem) {
         logoUrl: listItem.logoURI,
         symbol: listItem.symbol,
         decimals: listItem.decimals,
-        status: TokenStatus.APPROVED,
+        status: TokenStatus.UNKNOWN,
       },
     });
     console.log(`Token created:
