@@ -4464,30 +4464,6 @@
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/bullrun.png"
   },
   {
-    "chainId": 8453,
-    "address": "0x23432452b720c80553458496d4d9d7c5003280d0",
-    "name": "Frax Share",
-    "symbol": "FXS",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/86f05b4e5856203169dba64b26e6165e1be8dfa9/images/FXS.svg"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xe4796ccb6bb5de2290c417ac337f2b66ca2e770e",
-    "name": "Staked Frax",
-    "symbol": "sFRAX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/35383/standard/sfrax.png?1708445569"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
-    "name": "Aerodrome",
-    "symbol": "AERO",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/aero.png?raw=true"
-  },
-  {
     "chainId": 84531,
     "address": "0x7b4Adf64B0d60fF97D672E473420203D52562A84",
     "name": "USD Coin",
@@ -4497,7 +4473,7 @@
   },
   {
     "chainId": 8453,
-    "address": "0x21eceaf3bf88ef0797e3927d855ca5bb569a47fc",
+    "address": "0x21eCEAf3Bf88EF0797E3927d855CA5bb569a47fc",
     "name": "The Void",
     "symbol": "VOID",
     "decimals": 18,
@@ -4505,7 +4481,7 @@
   },
   {
     "chainId": 8453,
-    "address": "0xccc7e9b7a1e2fa193683f23e23c495ecde3c4db8",
+    "address": "0xCCC7E9B7a1E2Fa193683f23e23C495eCde3C4DB8",
     "name": "Cortana",
     "symbol": "CORTANA",
     "decimals": 9,
@@ -4625,7 +4601,7 @@
   },
   {
     "chainId": 8453,
-    "address": "0xecb36ff12cbe4710e9be2411de46e6c180a4807f",
+    "address": "0xeCb36fF12cbe4710E9Be2411de46E6C180a4807f",
     "name": "Flux YIN",
     "symbol": "YIN",
     "decimals": 8,
@@ -5151,14 +5127,7 @@
     "decimals": 18,
     "logoURI": "https://assets.smold.app/api/token/8453/0x2156006a207A793B4069a2B72BE58DC2bD759232/logo-128.png"
   },
-  {
-    "chainId": 8453,
-    "address": "0x21eCEAf3Bf88EF0797E3927d855CA5bb569a47fc",
-    "name": "The Void",
-    "symbol": "VOID",
-    "decimals": 18,
-    "logoURI": "https://assets.smold.app/api/token/8453/0x21eCEAf3Bf88EF0797E3927d855CA5bb569a47fc/logo-128.png"
-  },
+
   {
     "chainId": 8453,
     "address": "0x22222bD682745cF032006394750739684E45A5F8",
