@@ -91,6 +91,9 @@ importers:
         specifier: ^5.13.0
         version: 5.17.0(prisma@4.16.2)
     devDependencies:
+      '@changesets/cli':
+        specifier: ^2.27.1
+        version: 2.27.1
       '@ethersproject/address':
         specifier: ^5.0.2
         version: 5.7.0

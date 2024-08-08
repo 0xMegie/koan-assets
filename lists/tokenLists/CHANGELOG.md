@@ -1,1 +1,0 @@
-# @koanprotocol/token-list

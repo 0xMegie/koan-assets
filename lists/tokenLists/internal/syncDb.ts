@@ -16,20 +16,32 @@ async function syncDB() {
 async function syncTokenLists(dir: string, files: string[]) {
   for (const file of files) {
     console.log("Syncing file", file);
-    await syncTokenList(path.join(dir, file));
+    await syncTokenList(path.join(dir, file), file);
   }
 }
 
-async function syncTokenList(path: string) {
+async function syncTokenList(path: string, fileName: string) {
   const client = new PrismaClient();
 
   let list: TokenList;
   try {
-    list = TokenList.parse(JSON.parse(fs.readFileSync(path, "utf-8")));
+    const data = fs.readFileSync(path, "utf-8");
+    console.log("data.....", data);
+    const parsedData = JSON.parse(data);
+    console.log("parsedData.....", parsedData);
+    list = TokenList.parse(parsedData);
+    console.log("list.....", list);
+    // list = TokenList.parse(JSON.parse(fs.readFileSync(path, "utf-8")));
   } catch (e) {
     console.log("Failed to read", path, e);
     return;
   }
+
+  if (fileName == "base.json") {
+    console.log("we are based");
+  }
+
+  console.log("notbased...");
 
   for (const listItem of list) {
     await syncListItem(client, listItem).catch((e) =>

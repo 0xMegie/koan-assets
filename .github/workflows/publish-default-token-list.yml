@@ -1,10 +1,10 @@
-name: "Publishing Testnet Token List to NPM"
+name: "Publishing Token List to NPM"
 on:
   push:
     branches:
       - main
     paths:
-      - "lists/testnet-token-list/tokens/**"
+      - "lists/tokenLists/**"
   workflow_call:
     inputs:
       if_bump:
@@ -36,9 +36,9 @@ jobs:
           cache: 'pnpm'
       - run: pnpm install
       - run: pnpm run test
-        working-directory: './lists/testnet-token-list'
+        working-directory: './lists/tokenLists'
       - run: pnpm run build
-        working-directory: './lists/testnet-token-list'
+        working-directory: './lists/tokenLists'
       - if: inputs.if_bump == true
         name: bump & publish
         run: |

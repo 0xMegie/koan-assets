@@ -9,16 +9,6 @@ import { z } from "zod";
 //   logoURI: z.optional(z.string()),
 // });
 
-const TokenListItem = z.object({
-  address: z.string(),
-  chainId: z.number(),
-  decimals: z.number(),
-  logoURI: z.string(),
-  name: z.string(),
-  symbol: z.string(),
-});
-
-export const TokenList = z.array(TokenListItem);
 
 export type TokenList = z.infer<typeof TokenList>;
 
@@ -29,3 +19,13 @@ export enum TokenStatus {
   UNKNOWN = "UNKNOWN",
   DISAPPROVED = "DISAPPROVED",
 }
+const TokenListItem = z.object({
+  address: z.string(),
+  chainId: z.number(),
+  decimals: z.number(),
+  logoURI: z.string(),
+  name: z.string(),
+  symbol: z.string(),
+});
+
+export const TokenList = z.array(TokenListItem);

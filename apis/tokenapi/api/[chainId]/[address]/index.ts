@@ -1,7 +1,7 @@
 import type { VercelRequest, VercelResponse } from "@vercel/node";
-import { isChainId } from "../../../lib/chainId.js";
+
 import { getToken } from "../../../lib/api.js";
-import { TokenApiSchema } from "../../../lib/schema/chainId/address.js";
+import { SingleTokenApiSchema } from "../../../lib/schema.js";
 
 const handler = async (request: VercelRequest, response: VercelResponse) => {
   response.setHeader(
@@ -9,17 +9,16 @@ const handler = async (request: VercelRequest, response: VercelResponse) => {
     "s-maxage=900, stale-while-revalidate=86400",
   );
 
-  const result = TokenApiSchema.safeParse(request.query);
+  const result = SingleTokenApiSchema.safeParse(request.query);
   if (!result.success) {
     return response.status(400).json(result.error.format());
   }
 
   const { chainId, address } = result.data;
 
-  if (!isChainId(chainId)) {
-    return response.status(400).send("Invalid chainId");
+  if (!chainId || !address) {
+    return response.status(400).json("Address or chainId is mising");
   }
-
   try {
     const token = await getToken(chainId, address);
     return response.status(200).json(token);
