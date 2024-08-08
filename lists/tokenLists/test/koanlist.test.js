@@ -69,7 +69,7 @@ describe("build", () => {
   it("version matches package.json", () => {
     expect(packageJson.version).to.match(/^\d+\.\d+\.\d+$/);
     expect(packageJson.version).to.equal(
-      `${defaultTokenList.version.major}.${defaultTokenList.version.minor}.${defaultTokenList.version.patch}`
+      `${defaultTokenList.version.major}.${defaultTokenList.version.minor}.${defaultTokenList.version.patch}`,
     );
   });
 });

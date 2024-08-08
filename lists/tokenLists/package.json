@@ -59,6 +59,6 @@
   },
   "dependencies": {
     "@prisma/client": "^5.13.0",
-    "ajv-formats": "^3.0.1"
+    "ajv-formats": "^2.1.1"
   }
 }
