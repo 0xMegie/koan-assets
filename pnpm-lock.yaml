@@ -26,9 +26,9 @@ importers:
 
   apis/tokenapi:
     dependencies:
-      '@koanprotocol/testnet-token-list':
-        specifier: ^1.1.1
-        version: 1.1.1
+      '@koanprotocol/token-list':
+        specifier: workspace:^
+        version: link:../../lists/tokenLists
       '@neondatabase/serverless':
         specifier: ^0.9.3
         version: 0.9.4
@@ -837,10 +837,6 @@ packages:
     dependencies:
       '@jridgewell/resolve-uri': 3.1.1
       '@jridgewell/sourcemap-codec': 1.4.15
-
-  /@koanprotocol/testnet-token-list@1.1.1:
-    resolution: {integrity: sha512-JcmcVjVgO1Y8b4OigymWCQg39KVPpE97ytvyK0/kyqupgLW40cBy5I7dBKmiWemNShlmh+t61ncaqIKgA8ip0w==}
-    dev: false
 
   /@manypkg/find-root@1.1.0:
     resolution: {integrity: sha512-mki5uBvhHzO8kYYix/WRy2WX8S3B5wdVSc9D6KcU5lQNglP2yt58/VfLuAK49glRXChosY8ap2oJ1qgma3GUVA==}
