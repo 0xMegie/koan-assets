@@ -1,20 +1,24 @@
 {
-  "$schema": "https://json.schemastore.org/tsconfig",
-  "display": "Default",
+
+  "include": ["src", "test"],
+  "exclude": ["node_modules", "dist", ".turbo"],
   "compilerOptions": {
-    "composite": false,
-    "declaration": true,
-    "declarationMap": true,
-    "esModuleInterop": true,
+    "rootDir": "./",
+    "outDir": "./dist",
+    "jsx": "react-jsx",
+    "lib": ["ESNext", "DOM"],
+    "allowJs": true,
+    "strict": true,
     "forceConsistentCasingInFileNames": true,
-    "inlineSources": false,
-    "isolatedModules": true,
-    "moduleResolution": "node",
-    "noUnusedLocals": false,
-    "noUnusedParameters": false,
-    "preserveWatchOutput": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "NodeNext",
+    "moduleResolution": "nodenext",
+    "resolveJsonModule": true,
+    "target": "ESNext",
     "skipLibCheck": true,
-    "strict": true
-  },
-  "exclude": ["node_modules"]
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true
+  }
 }

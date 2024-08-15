@@ -1,13 +1,12 @@
-const { version } = require("../package.json");
-const { sortTokens } = require("builder");
+import { version } from "../package.json";
+import { sortTokens } from "./utils/builder";
+// rimraf build && mkdir -p  build && node internal/write.js > build/koanmainnet.tokenlist.json
+// token imports
+import base from "./tokens/base.json";
+import optimism from "./tokens/optimism.json";
+import sepolia from "./tokens/sepolia.json";
 
-//token imports
-const base = require("../tokens/base.json");
-const optimism = require("../tokens/optimism.json");
-const sepolia = require("../tokens/sepolia.json");
-
-//build
-module.exports = function buildList() {
+export function getKoanDefaultTkens() {
   const parsed = version.split(".");
   return {
     name: "Koan Protocol TokenList",
@@ -23,4 +22,6 @@ module.exports = function buildList() {
     keywords: ["Koanprotocol", "default"],
     tokens: sortTokens([...base, ...optimism, ...sepolia]),
   };
-};
+}
+
+export * from "./constants";

@@ -1,21 +1,19 @@
 {
   "name": "@koanprotocol/token-list",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "koan protocol token list",
-  "main": "build/koan.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p  build && node internal/write.js > build/koanmainnet.tokenlist.json",
+    "build": "tsc",
     "prepublishOnly": "pnpm test && pnpm run build",
     "volume": "ts-node ./internal/tokenVolumes.ts",
     "ci:version": "pnpm version minor",
     "ci:publish": "pnpm publish --access public --tag latest",
-    "syncDb": "ts-node ./internal/syncDb.ts",
     "updateLogoUri": "ts-node ./internal/ops/updateLogoUrl.ts"
   },
-  "files": [
-    "build/koantestnet.tokenlist.json"
-  ],
+  "main": "./dist/index.js",
+  "source": "./src/index.ts",
+  "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/koan-protocol/assets.git",
@@ -30,27 +28,22 @@
   ],
   "author": "Ibrahim Ijai <whizibrahim@gmail.com>",
   "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/koan-protocol/dassets/issues"
-  },
   "homepage": "https://koanprotocol.xyz",
   "devDependencies": {
     "@changesets/cli": "^2.27.1",
     "@ethersproject/address": "^5.0.2",
     "@ethersproject/solidity": "^5.3.0",
     "@octokit/rest": "^18.6.2",
+    "@tsconfig/esm": "1.0.4",
+    "@tsconfig/strictest": "2.0.2",
     "@repo/eslint-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
     "@types/node": "^17.0.21",
     "@uniswap/token-lists": "1.0.0-beta.30",
     "ajv": "^6.12.3",
-    "builder": "workspace:*",
     "chai": "^4.2.0",
-    "graphql": "^16.3.0",
-    "graphql-request": "^4.1.0",
     "lodash": "^4.17.21",
     "mocha": "^8.0.1",
-    "prisma": "^4.16.2",
     "rimraf": "^3.0.2",
     "ts-node": "^10.7.0",
     "typescript": "^4.6.2",
@@ -58,7 +51,6 @@
     "zod": "^3.22.4"
   },
   "dependencies": {
-    "@prisma/client": "^5.13.0",
     "ajv-formats": "^2.1.1"
   }
 }
