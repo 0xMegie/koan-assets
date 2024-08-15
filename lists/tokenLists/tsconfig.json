@@ -1,24 +1,23 @@
 {
-
-  "include": ["src", "test"],
-  "exclude": ["node_modules", "dist", ".turbo"],
   "compilerOptions": {
-    "rootDir": "./",
-    "outDir": "./dist",
     "jsx": "react-jsx",
     "lib": ["ESNext", "DOM"],
     "allowJs": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
-    "noEmit": true,
+    "noEmit": false,
     "esModuleInterop": true,
     "module": "NodeNext",
-    "moduleResolution": "nodenext",
+    "moduleResolution": "NodeNext",
     "resolveJsonModule": true,
     "target": "ESNext",
     "skipLibCheck": true,
     "sourceMap": true,
     "declaration": true,
-    "declarationMap": true
-  }
+    "declarationMap": true,
+    "outDir": "./dist",
+    "rootDir": "."
+  },
+  "include": ["./**/*"],
+  "exclude": ["node_modules", "dist", ".turbo"]
 }

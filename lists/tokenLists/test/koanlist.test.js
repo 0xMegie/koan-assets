@@ -3,7 +3,7 @@ const schema = require("@uniswap/token-lists/src/tokenlist.schema.json");
 const { expect } = require("chai");
 const { getAddress } = require("@ethersproject/address");
 const Ajv = require("ajv");
-const { getKoanDefaultTkens } = require("../src/index.ts");
+const { getKoanDefaultTkens } = require("..");
 
 const ajv = new Ajv({ allErrors: true, format: "full" });
 const validator = ajv.compile(schema);
