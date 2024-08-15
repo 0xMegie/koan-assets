@@ -5,7 +5,7 @@
   "scripts": {
     "test": "mocha",
     "build": "tsc",
-    "prepublishOnly": "pnpm test && pnpm run build",
+    "prepublishOnly": "pnpm run build && pnpm test",
     "volume": "ts-node ./internal/tokenVolumes.ts",
     "ci:version": "pnpm version minor",
     "ci:publish": "pnpm publish --access public --tag latest",
