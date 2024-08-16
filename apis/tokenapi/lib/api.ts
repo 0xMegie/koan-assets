@@ -1,12 +1,12 @@
 import { readContracts } from "@wagmi/core";
 import "dotenv/config";
 import { erc20Abi, type Address } from "viem";
-import { web3config } from "./wagmiConfig";
 import {
   getKoanDefaultTkens,
   DEFAULT_TOKEN_LIST as OTHER_TOKEN_LISTS,
 } from "@koanprotocol/token-list";
 import { isPromiseFulfilled } from "./utils";
+import { web3config } from "./wagmiConfig.js";
 
 export async function getTokens() {
   const tokenFromList = getKoanDefaultTkens();
