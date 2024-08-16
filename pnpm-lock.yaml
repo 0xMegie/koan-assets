@@ -27,7 +27,7 @@ importers:
   apis/tokenapi:
     dependencies:
       '@koanprotocol/token-list':
-        specifier: ^0.0.1
+        specifier: workspace:^
         version: link:../../lists/tokenLists
       '@neondatabase/serverless':
         specifier: ^0.9.3

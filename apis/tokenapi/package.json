@@ -9,7 +9,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@koanprotocol/token-list": "^0.0.1",
+    "@koanprotocol/token-list": "workspace:^",
     "@neondatabase/serverless": "^0.9.3",
     "@prisma/adapter-neon": "^5.13.0",
     "@prisma/client": "^5.13.0",

@@ -1,8 +1,7 @@
 export const ChainId = {
+  BASE: 8453,
+  OPTIMISM: 10,
   SEPOLIA: 11155111,
-  BASE_SEPOLIA: 84532,
-  BLAST_SEPOLIA: 168587773,
-  MUMBAI_TESTNET: 80001,
 } as const;
 export type ChainId = (typeof ChainId)[keyof typeof ChainId];
 
