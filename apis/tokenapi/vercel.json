@@ -9,7 +9,6 @@
     }
   ],
   "rewrites": [
-    { "source": "/", "destination": "/api" },
-    { "source": "/v0", "destination": "/api/v0" }
+    { "source": "/", "destination": "/api" }
   ]
 }
