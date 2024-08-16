@@ -5,7 +5,7 @@ import {
   getKoanDefaultTkens,
   DEFAULT_TOKEN_LIST as OTHER_TOKEN_LISTS,
 } from "@koanprotocol/token-list";
-import { isPromiseFulfilled } from "./utils";
+import { isPromiseFulfilled } from "./utils/index.js";
 import { web3config } from "./wagmiConfig.js";
 
 export async function getTokens() {
