@@ -1,10 +1,7 @@
 import { readContracts } from "@wagmi/core";
 import "dotenv/config";
 import { erc20Abi, type Address } from "viem";
-import {
-  getKoanDefaultTkens,
-  DEFAULT_TOKEN_LIST as OTHER_TOKEN_LISTS,
-} from "@koanprotocol/token-list";
+import { getKoanDefaultTkens, DEFAULT_TOKEN_LIST } from "@koanprotocol/token-list";
 import { isPromiseFulfilled } from "./utils/index.js";
 import { web3config } from "./wagmiConfig.js";
 
@@ -30,7 +27,7 @@ export async function getToken(chainId: number, address: string) {
   }
 
   const _tokenFromOtherLists = await Promise.allSettled(
-    OTHER_TOKEN_LISTS.map((el) => fetch(el).then((res) => res.json())),
+    DEFAULT_TOKEN_LIST.map((el) => fetch(el).then((res) => res.json())),
   )
     .then((res) => {
       return res.filter(isPromiseFulfilled).map((el) => el.value);
