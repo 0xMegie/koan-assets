@@ -6,6 +6,7 @@ const handler = async (_request: VercelRequest, response: VercelResponse) => {
     "Cache-Control",
     "s-maxage=900, stale-while-revalidate=86400",
   );
+  console.log("starting....in api route");
   const tokens = await getTokens();
   return response.status(200).json(tokens);
 };

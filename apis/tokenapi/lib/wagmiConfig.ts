@@ -9,3 +9,4 @@ export const web3config = createConfig({
     [sepolia.id]: http(),
   },
 });
+

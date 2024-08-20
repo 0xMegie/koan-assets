@@ -6,7 +6,9 @@ import { isPromiseFulfilled } from "./utils/index.js";
 import { web3config } from "./wagmiConfig.js";
 
 export async function getTokens() {
+  console.log("starting....")
   const tokenFromList = getKoanDefaultTkens();
+  console.log("tokenist", tokenFromList)
   return tokenFromList ? tokenFromList.tokens : [];
 }
 
